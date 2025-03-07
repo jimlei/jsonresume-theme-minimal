@@ -2,7 +2,8 @@ const
   defineConfig = require('vite').defineConfig;
   resolve = require('path').resolve,
   viteSingleFile = require('vite-plugin-singlefile').viteSingleFile,
-  handlebars = require('vite-plugin-handlebars');
+  handlebars = require('vite-plugin-handlebars'),
+  helpers = require('handlebars-helpers')();;
  
 
 module.exports = (resume) => {
@@ -10,6 +11,7 @@ module.exports = (resume) => {
     plugins: [
       viteSingleFile(),
       handlebars({
+        helpers: helpers,
         partialDirectory: resolve(__dirname, 'src/partials'),
         context: {
           resume: resume,

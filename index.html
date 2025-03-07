@@ -3,10 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{#resume.basics}}{{name}}{{/resume.basics}}</title>
+    <title>CV {{#resume.basics}}{{name}}{{/resume.basics}}</title>
+    <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css" />
   </head>
   <body>
-    <main id="resume">
+    <main id="resume" class="flex flex-col gap-5 p-8 print:p-0 print:text-xs">
       {{> basics }}
       {{> work }}
       {{> volunteer }}

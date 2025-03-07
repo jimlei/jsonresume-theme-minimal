@@ -1,34 +1,37 @@
 {{#if resume.publications.length}}
 <section id="publications">
-	<h2>Publications</h2>
+	{{>components/header level=2 title='Publications'}}
 	{{#each resume.publications}}
-	<div class="item">
-		{{#if name}}
-		<div class="name">
-			{{name}}
+	<article class="flex">
+		<div class="min-w-36 text-sm">
+			{{#if releaseDate}}
+			<span>
+				{{releaseDate}}
+			</span>
+			{{/if}}
 		</div>
-		{{/if}}
-		{{#if publisher}}
-		<div class="publisher">
-			{{publisher}}
+		<div>
+			{{#if name}}
+			{{>components/header level=3 title=name}}
+			{{/if}}
+
+			{{#if publisher}}
+			<div >
+				{{publisher}}
+			</div>
+			{{/if}}
+			{{#if url}}
+			<div >
+				<a href="{{url}}">{{url}}</a>
+			</div>
+			{{/if}}
+			{{#if summary}}
+			<div >
+				<p>{{summary}}</p>
+			</div>
+			{{/if}}
 		</div>
-		{{/if}}
-		{{#if releaseDate}}
-		<div class="releaseDate">
-			{{releaseDate}}
-		</div>
-		{{/if}}
-		{{#if website}}
-		<div class="website">
-			<a href="{{website}}">Link</a>
-		</div>
-		{{/if}}
-		{{#if summary}}
-		<div class="summary">
-			<p>{{summary}}</p>
-		</div>
-		{{/if}}
-	</div>
+	</article>
 	{{/each}}
 </section>
 {{/if}}

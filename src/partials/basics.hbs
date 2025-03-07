@@ -1,90 +1,68 @@
 {{#resume.basics}}
-	<h1>{{name}}</h1>
-	<h2>{{label}}</h2>
+	{{>components/header level=1 title='CV'}}
 	<section id="basics">
-		<div class="contact">
-		{{#if website}}
-		<div class="website">
-			<strong>Website</strong>
-			{{website}}
-		</div>
-		{{/if}}
-		{{#if email}}
-		<div class="email">
-			<strong>Email</strong>
-			{{email}}
-		</div>
-		{{/if}}
-		{{#if phone}}
-		<div class="phone">
-			<strong>Phone</strong>
-			{{phone}}
-		</div>
-		{{/if}}
-		</div>
-		{{#if summary}}
-		<div class="summary">
-			<p>{{summary}}</p>
-		</div>
-		{{/if}}
-		{{#location}}
-		<h3>Location</h3>
-		<section id="location">
-			{{#if address}}
-			<div class="address">
-				<strong>Address</strong>
-				{{address}}
+		<div class="flex content-between gap-12">
+			<div class="flex flex-col grow">
+				{{#if name}}
+					{{>components/header level=2 title=name}}
+				{{/if}}
+
+				{{#if summary}}
+				<p class="mb-2">{{summary}}</p>
+				{{/if}}
 			</div>
-			{{/if}}
-			{{#if postalCode}}
-			<div class="postalCode">
-				<strong>Postal code</strong>
-				{{postalCode}}
+			<div class="flex-none">
+				{{#if image}}
+				<img src="{{image}}" class="aspect-square rounded-full w-44 print:w-28 -mt-10 print:-mt-6 shadow-md saturate-0" />
+				{{/if}}
 			</div>
-			{{/if}}
-			{{#if city}}
-			<div class="city">
-				<strong>City</strong>
-				{{city}}
-			</div>
-			{{/if}}
-			{{#if countryCode}}
-			<div class="countryCode">
-				<strong>Country code</strong>
-				{{countryCode}}
-			</div>
-			{{/if}}
-			{{#if region}}
-			<div class="region">
-				<strong>Region</strong>
-				{{region}}
-			</div>
-			{{/if}}
-		</section>
-		{{/location}}
+		</div>
+		<div>
+			<div class="flex gap-6">
+					{{#if phone}}
+					<div class="flex gap-1 items-center">
+						<i class="bi bi-phone-fill"></i>
+						{{phone}}
+					</div>
+					{{/if}}
+
+					{{#if email}}
+						<a href="mailto:{{email}}">
+							<i class="bi bi-envelope-fill"></i>
+							{{email}}
+						</a>
+					{{/if}}
+
+					{{#location}}
+						{{#if address}}
+						<div>
+							<i class="bi bi-mailbox2"></i>
+							{{address}}{{#if postalCode}}, {{postalCode}}{{/if}}
+
+							{{#if city}}
+							{{city}}
+							{{/if}}
+						</div>
+						{{/if}}
+					{{/location}}
+
+					{{#if url}}
+						<a href="{{url}}" class="flex gap-1 items-center">
+						<i class="bi bi-house-fill"></i>
+							{{url}}
+						</a>
+					{{/if}}
+				</div>
+
 		{{#if profiles.length}}
-		<h3>Profiles</h3>
-		<section id="profiles">
 			{{#each profiles}}
-			<div class="item">
-				{{#if network}}
-				<strong class="network">
-					{{network}}
-				</strong>
-				{{/if}}
-				{{#if username}}
-				<div class="username">
-					{{username}}
-				</div>
-				{{/if}}
 				{{#if url}}
-				<div class="url">
-					<a href="{{url}}">Link</a>
-				</div>
+					<a href="{{url}}">
+						{{#if network}}{{network}}{{else}}{{url}}{{/if}}
+					</a>
 				{{/if}}
-			</div>
 			{{/each}}
-		</section>
 		{{/if}}
+		</div>
 	</section>
 {{/resume.basics}}

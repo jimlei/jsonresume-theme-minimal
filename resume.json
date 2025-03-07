@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+  "basics": {
+    "name": "Jim leirvik",
+    "label": "Developer",
+    "image": "https://avatars.githubusercontent.com/u/4523053",
+    "email": "jim@jimleirvik.no",
+    "phone": "92 111 587",
+    "url": "https://jimleirvik.no",
+    "summary": "Committed to fostering a positive work environment and effective collaboration with colleagues and clients. Extensive experience in problem-solving, often developing solutions independently. Curious by nature and proactive in acquiring new knowledge on my own initiative.",
+    "location": {
+      "address": "Geitskaret 49",
+      "postalCode": "8014",
+      "city": "Bodø",
+      "countryCode": "NO"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "jimlei",
+        "url": "https://github.com/jimlei"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "jiml",
+        "url": "https://stackoverflow.com/users/1078488/jiml"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bilberry Technologies",
+      "location": "Bodø, Norway",
+      "description": "Bilberry have designed a powerful, flexible, and focused platform that takes the everyday life of running an activity provider to the next level.",
+      "position": "Developer",
+      "url": "https://bilberry.no",
+      "startDate": "2023-05-01",
+      "summary": "Worked on frontend for both their legacy platform and their new platform.",
+      "highlights": [
+        "Given the responsibility to work cross-team and cross-project to improve e2e testing and acceptance testing.",
+        "Took the initiative and motivated others to join a CTF (Cyberlandslaget 2025)."
+      ]
+    },
+    {
+      "name": "Cerpus AS",
+      "location": "Bodø, Norway",
+      "description": "Cerpus develop web based solutions for e-learning and are working towards becoming an international leader for innovative solutions for the educational sector.",
+      "position": "Developer",
+      "url": "https://gamilab.com",
+      "startDate": "2022-03-01",
+      "endDate": "2023-04-30",
+      "summary": "Worked on a platform offering gamified educational materials for schools that is in use acroll all continents. The platform itself was based on Laravel and the games were made for mobile and desktop browsers using JS.",
+      "highlights": [
+        "Had a lead role in successfully implementing new design across the entire website and its components.",
+        "Contributed to researching, development, implementation, and release of three successful JavaScript games on the platform."
+      ]
+    },
+    {
+      "name": "Ahlsell AS",
+      "location": "Bodø, Norway",
+      "description": "Ahlsell is a wholesaler for professional users with an extensive range of products and related services. With an annual turnover of approximately 50 billion SEK, some 7,500 employees and more than 300 stores.",
+      "position": "Tilbudsansvarlig VA, Region Nord",
+      "url": "https://www.ahlsell.no/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Lead role for tender calculations including supplier and customer contact for all major tenders in the northern region, both for contractors and municipalities.",
+      "highlights": [
+        "Participated in a project group developing and implementing new routines for offers follow-up and tracking, as well as the integrations with the CRM system."
+      ]
+    },
+    {
+      "name": "Ahlsell AS",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Selger VA",
+      "url": "https://www.ahlsell.no/",
+      "startDate": "2016-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Managed sales and customer relations for 50 clients in the water and wastewater (VA) sector, including small and large contractors and municipalities.",
+      "highlights": [
+        "Increased sales and expanded the customer base for the department.",
+        "Held primary responsibility for the procurement agreement with 13 municipalities in Salten.",
+        "Developed an integration between our tender calculation program and ISY Linker which allowed us to send digital offers to our customers.",
+        "Developed project tracking and inventory systems during my free time, since used across all departments in the region and by other teams within the company.",
+        "Contributed to sales, project calculations and -tracking across the region.",
+        "Participated in project group to establish new guidelines for tender management.",
+        "Helped implement new national framework agreements for the VA sector, benefiting 200 customers as well as simplifying the job for employees in the northern region."
+      ]
+    },
+    {
+      "name": "Braathe Gruppen",
+      "location": "Bodø, Norway",
+      "description": "Braathe Gruppen is a forward-thinking and innovative technology provider with a vision of delivering a worry-free IT experience.",
+      "position": "Developer",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-01",
+      "summary": "Worked on a large norwegian auction site. Analyzed customer needs and opportunities, followed by implementation using Symfony and JS.",
+      "highlights": [
+        "Organized a project team of three developers and leadership.",
+        "Introduced utilization of virtual environments for development.",
+        "Enhanced workflows by optimizing issue tracking, version control systems (VCS), and continuous integration/deployment processes."
+      ]
+    },
+    {
+      "name": "International Software Technology AS",
+      "location": "Bodø, Norway",
+      "description": "Nordic company providing administrative and educational IT solutions.",
+      "position": "Developer",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Part of a large international team working on school administration software. Implemented new features, bug fixes, and integrations with internal and external APIs.",
+      "highlights": [
+        "Contributed to the project's modernization, including updates to the tech stack and tools such as Gulp, SASS, and Vagrant."
+      ]
+    },
+    {
+      "name": "Leirvik Nett",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Consultant",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Handled tender calculations, customer and project sourcing both domestically and internationally, and followed up on offers. Analyzed customer needs and opportunities, followed by their implementation.",
+      "highlights": []
+    },
+    {
+      "name": "Manpower (Ahlsell Bodø)",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Warehouse worker",
+      "startDate": "2011-01-01",
+      "endDate": "2011-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Bodø Taxi",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Driver",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MIX Norsia AS",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Owner",
+      "startDate": "2006-01-01",
+      "endDate": "2008-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Bunnpris Stormyra",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Sales Associate",
+      "startDate": "2006-01-01",
+      "endDate": "2006-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Nord Norsk Distribusjon",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Driver",
+      "startDate": "2006-01-01",
+      "endDate": "2006-01-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Mix Rønvikveien AS",
+      "location": "Bodø, Norway",
+      "description": "",
+      "position": "Sales Associate",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bodø Ishockeyklubb",
+      "position": "Klubbleder / Nestleder / Nettansvarlig",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "highlights": []
+    },
+    {
+      "organization": "Club Honda Norge",
+      "position": "Nestleder / Nettansvarlig / Nettbutikk",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bodø Videregående Skole",
+      "area": "Bedriftsøkonomi",
+      "studyType": "Allmenne fag",
+      "startDate": "2001-01-01",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Drivers License",
+      "date": "2003-03-25",
+      "issuer": "Statens Vegvesen"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Back End Development",
+      "level": "",
+      "summary": "Experienced in back-end development with a solid grasp of coding principles and expertise in integrating with both internal and external services. Passionate about security, with a focus on anticipating future developer needs and addressing potential security risks when implementing new features.",
+      "keywords": [
+        "Go",
+        "Laravel",
+        "MongoDB",
+        "MySQL",
+        "NodeJS",
+        "PHP",
+        "Python",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Redis",
+        "Supabase",
+        "Symfony"
+      ]
+    },
+    {
+      "name": "Front End Development",
+      "level": "",
+      "summary": "Proficient in front-end development with a deep understanding of design principles, user experience, and industry-standard tools. Skilled at translating designs into semantic, reusable components for both web and mobile applications.",
+      "keywords": [
+        "CSS",
+        "Figma",
+        "Javascript",
+        "Playwright",
+        "React",
+        "Tailwind",
+        "Typescript",
+        "User Experience",
+        "Vue"
+      ]
+    },
+    {
+      "name": "Dev ops",
+      "level": "",
+      "summary": "Interested in DevOps with over 15 years of hands-on experience managing a home lab and server hardware. Proficient in running various local services using Docker containers, and have established a home network with VLANs and a custom pfSense router to maintain robust security. Committed to continuous learning and applying best practices in automation, configuration management, and system reliability.",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Servers"
+      ]
+    },
+    {
+      "name": "Security",
+      "level": "",
+      "summary": "With over 25 years of experience, starting with modifications to a well-known open-source C++ application, I have developed a strong focus on web security through both hobby projects and consulting. I adopt a proactive approach by assuming systems may be compromised and plan defenses accordingly. My security mindset includes compartmentalizing systems, isolating untrusted devices on separate VLANs, and using QubesOS on my main desktop and laptop for enhanced security.",
+      "keywords": [
+        "Web",
+        "Network",
+        "Hardware",
+        "Social"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Norwegian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner/school"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Nature",
+      "keywords": [
+        "Photography",
+        "Hikes",
+        "Camping"
+      ]
+    },
+    {
+      "name": "Technology",
+      "keywords": [
+        "Web and app development",
+        "Servers and devops"
+      ]
+    },
+    {
+      "name": "Automotive",
+      "keywords": [
+        "Cars",
+        "Mechanical/tuning"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Ice hockey"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Bilberry",
+      "description": "",
+      "highlights": [],
+      "keywords": [
+        ".NET",
+        "Figma",
+        "Playwright",
+        "React",
+        "Typescript",
+        "Tailwind"
+      ],
+      "startDate": "2023-05-01",
+      "url": "https://bilberry.no/",
+      "roles": [],
+      "entity": "Bilberry Technologies",
+      "type": "application"
+    },
+    {
+      "name": "Gamilab",
+      "description": "Gamilab is a game based learning platform offering students a new and exciting way to learn.",
+      "highlights": [],
+      "keywords": [
+        "Figma",
+        "Laravel",
+        "Javascript",
+        "Tailwind"
+      ],
+      "startDate": "2022-03-01",
+      "endDate": "2023-04-30",
+      "url": "https://gamilab.com",
+      "roles": [
+        "Full Stack Developer"
+      ],
+      "entity": "Cerpus AS",
+      "type": "application"
+    }
+  ],
+  "sideProjects": [
+    {
+      "name": "Unnamed tender application",
+      "description": "Tender application that scrapes Doffin.no and allows users to work together on selecting interesting tenders, itemizing posts and creating offers for their customers.",
+      "keywords": [
+        "Alpine.js",
+        "BankID",
+        "Doffin",
+        "Laravel",
+        "Livewire",
+        "Mercell",
+        "Nets",
+        "Tailwind"
+      ],
+      "startDate": "2025-02-15"
+    },
+    {
+      "name": "Club Honda Norway Community",
+      "url": "http://www.club-honda.org",
+      "description": "The website and forums were built using Joomla CMS and vBulletin, with custom-developed components to integrate with our e-commerce partner, shipping providers, and subscription services for website and forum access. A custom vBulletin module was also created to allow club partners to advertise their products and services, offering promotions. The club has since discontinued operations.",
+      "keywords": [
+        "Javascript",
+        "PHP"
+      ],
+      "startDate": "2007-01-01"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+    "version": "v8.4.2",
+    "lastModified": "2024-10-18T17:45:48+00:00Z"
+  }
+}

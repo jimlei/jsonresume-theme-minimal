@@ -1,29 +1,31 @@
 {{#if resume.awards.length}}
 <section id="awards">
-	<h2>Awards</h2>
+	{{>components/header level=2 title='Awards'}}
 	{{#each resume.awards}}
-	<div class="item">
-		{{#if title}}
-		<div class="title">
-			{{title}}
+	<article class="flex">
+		<div class="min-w-36 text-sm">
+			{{#if date}}
+			<span>
+				{{#moment date "YYYY" datejs=false}}{{/moment}}
+			</span>
+			{{/if}}
 		</div>
-		{{/if}}
-		{{#if date}}
-		<div class="date">
-			{{date}}
+		<div>
+			{{#if title}}
+			{{>components/header level=3 title=title}}
+			{{/if}}
+			{{#if awarder}}
+			<div >
+				{{awarder}}
+			</div>
+			{{/if}}
+			{{#if summary}}
+			<div >
+				<p>{{summary}}</p>
+			</div>
+			{{/if}}
 		</div>
-		{{/if}}
-		{{#if awarder}}
-		<div class="awarder">
-			{{awarder}}
-		</div>
-		{{/if}}
-		{{#if summary}}
-		<div class="summary">
-			<p>{{summary}}</p>
-		</div>
-		{{/if}}
-	</div>
+	</article>
 	{{/each}}
 </section>
 {{/if}}
