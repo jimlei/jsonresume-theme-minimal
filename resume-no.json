@@ -2,7 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
   "basics": {
     "name": "Jim leirvik",
+    "birthDate": "1985-03-21",
     "label": "Utvikler",
+    "image": "https://avatars.githubusercontent.com/u/4523053",
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
