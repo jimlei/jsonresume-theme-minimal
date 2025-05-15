@@ -1,0 +1,402 @@
+{
+  "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+  "basics": {
+    "name": "Jim leirvik",
+    "label": "Utvikler",
+    "email": "jim@jimleirvik.no",
+    "phone": "92 111 587",
+    "url": "https://jimleirvik.no",
+    "summary": "Ønsker å fremme et positivt arbeidsmiljø og effektivt samarbeid med kolleger og kunder. Omfattende erfaring med problemløsning, ofte gjennom å utvikle løsninger på egen hånd. Nysgjerrig av natur og proaktiv i å tilegne meg ny kunnskap på eget initiativ.",
+    "location": {
+      "address": "Geitskaret 49",
+      "postalCode": "8014",
+      "city": "Bodø",
+      "countryCode": "NO"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "jimlei",
+        "url": "https://github.com/jimlei"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "jiml",
+        "url": "https://stackoverflow.com/users/1078488/jiml"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bilberry Technologies",
+      "location": "Bodø, Norge",
+      "description": "Bilberry har designet en kraftig, fleksibel og fokusert plattform som tar hverdagen til aktivitetsleverandører til neste nivå.",
+      "position": "Utvikler",
+      "url": "https://bilberry.no",
+      "startDate": "2023-05-01",
+      "summary": "Arbeidet med frontend på både den eldre og den nye plattformen deres.",
+      "highlights": [
+        "Eierskap til OKR for å etablere et fundament for kvalitetskultur med mål om å redusere antall unike feil med 70%.",
+        "Fikk ansvar for å jobbe på tvers av team og prosjekter for å forbedre e2e- og akseptansetestingen.",
+        "Tok initiativ til og motiverte kolleger til å delta i CTF (Cyberlandslaget 2025)."
+      ]
+    },
+    {
+      "name": "Cerpus AS",
+      "location": "Bodø, Norge",
+      "description": "Cerpus utvikler nettbaserte løsninger for e-læring og jobber mot å bli en internasjonal leder innen innovative utdanningsløsninger.",
+      "position": "Utvikler",
+      "url": "https://gamilab.com",
+      "startDate": "2022-03-01",
+      "endDate": "2023-04-30",
+      "summary": "Arbeidet på en plattform som tilbyr spillbasert læringsinnhold til skoler og er i bruk over hele verden. Plattformen var basert på Laravel, og spillene ble laget for både mobil og nettleser med JavaScript.",
+      "highlights": [
+        "Ledende rolle i implementering av nytt design over hele nettstedet og komponentene.",
+        "Bidro til research, utvikling, implementering og lansering av tre vellykkede JavaScript-spill på plattformen."
+      ]
+    },
+    {
+      "name": "Ahlsell AS",
+      "location": "Bodø, Norge",
+      "description": "Ahlsell er en grossist for profesjonelle brukere med et omfattende sortiment og tilhørende tjenester. Med en årlig omsetning på ca. 50 milliarder SEK, 7500 ansatte og over 300 butikker.",
+      "position": "Tilbudsansvarlig VA, Region Nord",
+      "url": "https://www.ahlsell.no/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Ledende rolle i anbudsberegning inkludert kontakt med leverandører og kunder for alle større anbud i Nord-Norge, både til entreprenører og kommuner.",
+      "highlights": [
+        "Deltok i prosjektgruppe som utviklet og implementerte nye rutiner for oppfølging og sporing av tilbud, samt integrasjoner med CRM-systemet."
+      ]
+    },
+    {
+      "name": "Ahlsell AS",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Selger VA",
+      "url": "https://www.ahlsell.no/",
+      "startDate": "2016-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Ansvarlig for salg og kundekontakt med 50 kunder i VA-sektoren, inkludert små og store entreprenører og kommuner.",
+      "highlights": [
+        "Økte salget og utvidet kundebasen for avdelingen.",
+        "Hovedansvar for innkjøpsavtale med 13 kommuner i Salten.",
+        "Utviklet integrasjon mellom vårt kalkyleprogram og ISY Linker som muliggjorde digitale tilbud.",
+        "Utviklet prosjektstyrings- og lagersystemer på fritiden – tatt i bruk over hele regionen og av andre team.",
+        "Bidro til salg, prosjektkalkulasjon og -oppfølging i hele regionen.",
+        "Deltok i prosjektgruppe som utviklet nye retningslinjer for anbudshåndtering.",
+        "Bidro til innføring av nye nasjonale rammeavtaler for VA-sektoren, til nytte for 200 kunder og forenkling av de ansattes arbeid."
+      ]
+    },
+    {
+      "name": "Braathe Gruppen",
+      "location": "Bodø, Norge",
+      "description": "Braathe Gruppen er en fremtidsrettet teknologileverandør med visjon om å tilby en bekymringsfri IT-opplevelse.",
+      "position": "Utvikler",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-01",
+      "summary": "Arbeidet med en stor norsk auksjonsside. Analyserte kundebehov og muligheter, implementerte løsninger med Symfony og JavaScript.",
+      "highlights": [
+        "Organiserte et prosjektteam på tre utviklere og ledelse.",
+        "Introduserte bruk av virtuelle miljøer for utvikling.",
+        "Forbedret arbeidsflyt gjennom optimalisering av sakshåndtering, versjonskontroll og CI/CD."
+      ]
+    },
+    {
+      "name": "International Software Technology AS",
+      "location": "Bodø, Norge",
+      "description": "Nordisk selskap som leverer administrative og pedagogiske IT-løsninger.",
+      "position": "Utvikler",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "summary": "Del av internasjonalt team som utviklet skoleadministrasjonsløsning. Implementerte funksjoner, feilretting og API-integrasjoner.",
+      "highlights": [
+        "Bidro til modernisering av prosjektet, inkludert oppdateringer til tech stack og verktøy som Gulp, SASS og Vagrant."
+      ]
+    },
+    {
+      "name": "Leirvik Nett",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Konsulent",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Håndterte anbudsberegninger, kunde- og prosjektanskaffelser nasjonalt og internasjonalt, samt oppfølging av tilbud. Analyserte kundebehov og implementerte løsninger.",
+      "highlights": []
+    },
+    {
+      "name": "Manpower (Ahlsell Bodø)",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Lagerarbeider",
+      "startDate": "2011-01-01",
+      "endDate": "2011-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Bodø Taxi",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Sjåfør",
+      "startDate": "2009-01-01",
+      "endDate": "2011-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "MIX Norsia AS",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Eier",
+      "startDate": "2006-01-01",
+      "endDate": "2008-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Bunnpris Stormyra",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Butikkmedarbeider",
+      "startDate": "2006-01-01",
+      "endDate": "2006-06-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Nord Norsk Distribusjon",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Sjåfør",
+      "startDate": "2006-01-01",
+      "endDate": "2006-01-06",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Mix Rønvikveien AS",
+      "location": "Bodø, Norge",
+      "description": "",
+      "position": "Butikkmedarbeider",
+      "startDate": "2004-01-01",
+      "endDate": "2006-01-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bodø Ishockeyklubb",
+      "position": "Klubbleder / Nestleder / Nettansvarlig",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "highlights": []
+    },
+    {
+      "organization": "Club Honda Norge",
+      "position": "Nestleder / Nettansvarlig / Nettbutikk",
+      "startDate": "2007-01-01",
+      "endDate": "2012-01-01",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Bodø Videregående Skole",
+      "area": "Bedriftsøkonomi",
+      "studyType": "Allmenne fag",
+      "startDate": "2001-01-01",
+      "endDate": "2004-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Førerkort",
+      "date": "2003-03-25",
+      "issuer": "Statens Vegvesen"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Backend-utvikling",
+      "level": "",
+      "summary": "Erfaren innen backend-utvikling med god forståelse av programmeringsprinsipper og ekspertise i integrasjon med både interne og eksterne tjenester. Lidenskapelig opptatt av sikkerhet, med fokus på å forutse fremtidige behov hos utviklere og håndtere potensielle sikkerhetsrisikoer ved implementering av nye funksjoner.",
+      "keywords": [
+        "Go",
+        "Laravel",
+        "MongoDB",
+        "MySQL",
+        "NodeJS",
+        "PHP",
+        "Python",
+        "PostgreSQL",
+        "RabbitMQ",
+        "Redis",
+        "Supabase",
+        "Symfony"
+      ]
+    },
+    {
+      "name": "Frontend-utvikling",
+      "level": "",
+      "summary": "Dyktig innen frontend-utvikling med dyp forståelse for designprinsipper, brukeropplevelse og bransjestandard verktøy. Kompetent til å oversette design til semantiske, gjenbrukbare komponenter for både web og mobilapplikasjoner.",
+      "keywords": [
+        "CSS",
+        "Figma",
+        "Javascript",
+        "Playwright",
+        "React",
+        "Tailwind",
+        "Typescript",
+        "Brukeropplevelse",
+        "Vue"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "summary": "Interesse for DevOps med over 15 års praktisk erfaring med å administrere hjemmelab og servermaskinvare. Dyktig i å kjøre ulike lokale tjenester med Docker-containere, og har etablert hjemmenettverk med VLAN og en tilpasset pfSense-router for å opprettholde robust sikkerhet. Engasjert i kontinuerlig læring og anvendelse av beste praksis innen automatisering, konfigurasjonsstyring og systempålitelighet.",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Servere"
+      ]
+    },
+    {
+      "name": "Sikkerhet",
+      "level": "",
+      "summary": "Med over 25 års erfaring, startet med modifikasjoner til en kjent open-source C++-applikasjon, har jeg utviklet sterk fokus på web-sikkerhet gjennom både hobbyprosjekter og konsulentoppdrag. Jeg har en proaktiv tilnærming ved å anta at systemer kan bli kompromittert, og planlegger forsvar deretter. Min sikkerhetstenkning inkluderer oppdeling av systemer, isolasjon av upålitelige enheter på egne VLAN, og bruk av QubesOS på hovedstasjonær og bærbar PC for økt sikkerhet.",
+      "keywords": [
+        "Web",
+        "Nettverk",
+        "Maskinvare",
+        "Sosial"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Norsk",
+      "fluency": "Morsmål"
+    },
+    {
+      "language": "Engelsk",
+      "fluency": "Avansert"
+    },
+    {
+      "language": "Tysk",
+      "fluency": "Begynner/skole"
+    },
+    {
+      "language": "Japansk",
+      "fluency": "Begynner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Natur",
+      "keywords": [
+        "Fotografi",
+        "Vandring",
+        "Camping"
+      ]
+    },
+    {
+      "name": "Teknologi",
+      "keywords": [
+        "Web- og apputvikling",
+        "Servere og devops"
+      ]
+    },
+    {
+      "name": "Bil",
+      "keywords": [
+        "Oppussing",
+        "Veteranbil"
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+        "Ishockey"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Bilberry",
+      "description": "",
+      "highlights": [],
+      "keywords": [
+        ".NET",
+        "Figma",
+        "Playwright",
+        "React",
+        "Typescript",
+        "Tailwind"
+      ],
+      "startDate": "2023-05-01",
+      "url": "https://bilberry.no/",
+      "roles": [],
+      "entity": "Bilberry Technologies",
+      "type": "applikasjon"
+    },
+    {
+      "name": "Gamilab",
+      "description": "Gamilab er en spillbasert læringsplattform som gir elever en ny og spennende måte å lære på.",
+      "highlights": [],
+      "keywords": [
+        "Figma",
+        "Laravel",
+        "Javascript",
+        "Tailwind"
+      ],
+      "startDate": "2022-03-01",
+      "endDate": "2023-04-30",
+      "url": "https://gamilab.com",
+      "roles": [
+        "Fullstack-utvikler"
+      ],
+      "entity": "Cerpus AS",
+      "type": "applikasjon"
+    }
+  ],
+  "sideProjects": [
+    {
+      "name": "Unnamed tender application",
+      "description": "Anbudsapplikasjon som henter informasjon fra Doffin.no og lar brukere samarbeide om å velge interessante anbud, dele opp poster og lage tilbud til kundene sine.",
+      "keywords": [
+        "Alpine.js",
+        "BankID",
+        "Doffin",
+        "Laravel",
+        "Livewire",
+        "Mercell",
+        "Nets",
+        "Tailwind"
+      ],
+      "startDate": "2025-02-15"
+    },
+    {
+      "name": "Club Honda Norway Community",
+      "url": "http://www.club-honda.org",
+      "description": "Nettsted og forum bygget med Joomla CMS og vBulletin, med egendefinerte komponenter som integrerer med e-handels-partner, fraktleverandører og abonnementstjenester. Et eget vBulletin-modul ble også utviklet for å la klubbpartnere reklamere for produkter og tilbud. Klubben er nå nedlagt.",
+      "keywords": [
+        "Javascript",
+        "PHP"
+      ],
+      "startDate": "2007-01-01"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
+    "version": "v8.4.2",
+    "lastModified": "2024-10-18T17:45:48+00:00Z"
+  }
+}
