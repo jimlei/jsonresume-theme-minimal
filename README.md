@@ -21,6 +21,9 @@ This project uses [vite](https://vitejs.dev), [tailwindcss](https://tailwindcss.
 # Run development server
 npm start
 
+# Run development server for a specific language file (tries to load resume-no.json)
+npm run start:no
+
 # Build the resume using resume.json in the root directory
 npm run build
 
