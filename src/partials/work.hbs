@@ -1,6 +1,6 @@
 {{#if resume.work.length}}
 <section id="work">
-	{{>components/header level=2 title='Work'}}
+	{{>components/header level=2 title=(t 'Work')}}
 	<div class="flex flex-col gap-3">
 		{{#each resume.work}}
 		<article class="flex{{#unless summary}}{{#unless @last }} -mb-3{{/unless}}{{/unless}}">
@@ -14,7 +14,7 @@
 					{{#if endDate}}
 						{{#moment endDate "YYYY" datejs=false}}{{/moment}}
 					{{else}}
-						Present
+						{{t 'Present'}}
 					{{/if}}
 				</span>
 				{{/if}}

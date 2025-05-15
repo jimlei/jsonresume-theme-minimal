@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "start": "vite",
+    "start:no": "RESUME_VARIANT=no vite",
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "npm build && gh-pages -d dist/",
