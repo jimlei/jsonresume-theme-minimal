@@ -30,12 +30,25 @@
   },
   "work": [
     {
+      "name": "Cerpus AS",
+      "location": "Bodø, Norge",
+      "description": "Cerpus utvikler nettbaserte løsninger for e-læring og jobber mot å bli en internasjonal leder innen innovative utdanningsløsninger.",
+      "position": "Utvikler",
+      "url": "https://cerpus.com",
+      "startDate": "2025-06-21",
+      "summary": "Arbeidet på ulike prosjekter i Cerpus-organisasjonen.",
+      "highlights": [
+        "Ledende rolle i et nytt Django-prosjekt for å lage en ny plattform for Cerpus-organisasjonen."
+      ]
+    },
+    {
       "name": "Bilberry Technologies",
       "location": "Bodø, Norge",
       "description": "Bilberry har designet en kraftig, fleksibel og fokusert plattform som tar hverdagen til aktivitetsleverandører til neste nivå.",
       "position": "Utvikler",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
+      "endDate": "2025-08-27",
       "summary": "Arbeidet med frontend på både den eldre og den nye plattformen deres.",
       "highlights": [
         "Eierskap til OKR for å etablere et fundament for kvalitetskultur med mål om å redusere antall unike feil med 70%.",

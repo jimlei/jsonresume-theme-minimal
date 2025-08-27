@@ -30,12 +30,25 @@
   },
   "work": [
     {
+      "name": "Cerpus AS",
+      "location": "Bodø, Norway",
+      "description": "Cerpus develop web based solutions for e-learning and are working towards becoming an international leader for innovative solutions for the educational sector.",
+      "position": "Developer",
+      "url": "https://cerpus.com",
+      "startDate": "2025-06-21",
+      "summary": "Worked on various projects in the Cerpus organization.",
+      "highlights": [
+        "Lead role in a new Django project to create a new platform for the Cerpus organization."
+      ]
+    },
+    {
       "name": "Bilberry Technologies",
       "location": "Bodø, Norway",
       "description": "Bilberry have designed a powerful, flexible, and focused platform that takes the everyday life of running an activity provider to the next level.",
       "position": "Developer",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
+      "endDate": "2025-06-18",
       "summary": "Worked on frontend for both their legacy platform and their new platform.",
       "highlights": [
         "Ownership of OKR to implement a fundament for a quality culture with a goal to reduce the number of unique issues by 70%.",
