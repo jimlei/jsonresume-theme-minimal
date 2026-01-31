@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Committed to fostering a positive work environment and effective collaboration with colleagues and clients. Extensive experience in problem-solving, often developing solutions independently. Curious by nature and proactive in acquiring new knowledge on my own initiative.",
+    "summary": "Proactive Fullstack Developer with experience building enterprise-grade applications and internal tools. Skilled in backend and frontend development, DevOps, and regulated environments. Known for initiative, problem-solving, and creating solutions that improve team workflows.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -30,90 +30,94 @@
   },
   "work": [
     {
-      "name": "Cerpus AS",
+      "name": "Edlib AS",
       "location": "Bodø, Norway",
-      "description": "Cerpus develop web based solutions for e-learning and are working towards becoming an international leader for innovative solutions for the educational sector.",
+      "description": "Edlib develops web-based solutions for e-learning and digital education platforms, aiming to become a leading international player in innovative learning technology.",
       "position": "Developer",
-      "url": "https://cerpus.com",
+      "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Worked on various projects in the Cerpus organization.",
+      "summary": "Worked on various projects, including consulting on complex healthcare-related systems and internal platforms.",
       "highlights": [
-        "Lead role in a new Django project to create a new platform for the Cerpus organization."
+        "Lead role in a new Django project to build a new platform for Edlib AS.",
+        "Consulted on a healthcare application with an extensive Kubernetes-based microservice architecture.",
+        "Participated in ISO certification processes for healthcare systems and security solutions through training, testing, and documentation.",
+        "Developed and maintained backend services in Java and frontend applications using Ionic and Angular.",
+        "Initiated, designed, and implemented a solution that improved daily workflows for the support staff, receiving internal recognition for impact and execution."
       ]
     },
     {
       "name": "Bilberry Technologies",
       "location": "Bodø, Norway",
-      "description": "Bilberry have designed a powerful, flexible, and focused platform that takes the everyday life of running an activity provider to the next level.",
+      "description": "Bilberry has designed a powerful, flexible, and focused platform that takes the everyday operations of activity providers to the next level.",
       "position": "Developer",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Worked on frontend for both their legacy platform and their new platform.",
+      "summary": "Worked on frontend development for both their legacy and new platforms.",
       "highlights": [
-        "Ownership of OKR to implement a fundament for a quality culture with a goal to reduce the number of unique issues by 70%.",
-        "Given the responsibility to work cross-team and cross-project to improve e2e testing and acceptance testing.",
-        "Took the initiative and motivated others to join a CTF (Cyberlandslaget 2025)."
+        "Ownership of OKR to establish a foundation for a quality culture with the goal to reduce the number of unique issues by 70%.",
+        "Worked across teams and projects to improve end-to-end and acceptance testing.",
+        "Initiated and motivated colleagues to participate in CTF (Cyberlandslaget 2025)."
       ]
     },
     {
       "name": "Cerpus AS",
       "location": "Bodø, Norway",
-      "description": "Cerpus develop web based solutions for e-learning and are working towards becoming an international leader for innovative solutions for the educational sector.",
+      "description": "Cerpus develops web-based e-learning solutions and is working towards becoming an international leader in innovative educational solutions.",
       "position": "Developer",
       "url": "https://gamilab.com",
       "startDate": "2022-03-01",
       "endDate": "2023-04-30",
-      "summary": "Worked on a platform offering gamified educational materials for schools that is in use acroll all continents. The platform itself was based on Laravel and the games were made for mobile and desktop browsers using JS.",
+      "summary": "Worked on a platform offering gamified educational content for schools used worldwide. The platform was based on Laravel, and the games were built for both mobile and browser using JavaScript.",
       "highlights": [
-        "Had a lead role in successfully implementing new design across the entire website and its components.",
-        "Contributed to researching, development, implementation, and release of three successful JavaScript games on the platform."
+        "Led implementation of a new design across the entire platform and components.",
+        "Contributed to research, development, implementation, and launch of three successful JavaScript games on the platform."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norway",
-      "description": "Ahlsell is a wholesaler for professional users with an extensive range of products and related services. With an annual turnover of approximately 50 billion SEK, some 7,500 employees and more than 300 stores.",
-      "position": "Tilbudsansvarlig VA, Region Nord",
+      "description": "Ahlsell is a wholesaler for professional users with an extensive range of products and related services. With an annual turnover of approximately 50 billion SEK, 7,500 employees, and over 300 stores.",
+      "position": "Tender Manager VA, Northern Region",
       "url": "https://www.ahlsell.no/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Lead role for tender calculations including supplier and customer contact for all major tenders in the northern region, both for contractors and municipalities.",
+      "summary": "Lead role for tender calculations, including supplier and customer contact for all major tenders in Northern Norway, both for contractors and municipalities.",
       "highlights": [
-        "Participated in a project group developing and implementing new routines for offers follow-up and tracking, as well as the integrations with the CRM system."
+        "Participated in a project group developing and implementing new routines for offer follow-up and tracking, including CRM integrations."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norway",
       "description": "",
-      "position": "Selger VA",
+      "position": "Salesperson VA",
       "url": "https://www.ahlsell.no/",
       "startDate": "2016-01-01",
       "endDate": "2021-01-01",
       "summary": "Managed sales and customer relations for 50 clients in the water and wastewater (VA) sector, including small and large contractors and municipalities.",
       "highlights": [
-        "Increased sales and expanded the customer base for the department.",
-        "Held primary responsibility for the procurement agreement with 13 municipalities in Salten.",
-        "Developed an integration between our tender calculation program and ISY Linker which allowed us to send digital offers to our customers.",
-        "Developed project tracking and inventory systems during my free time, since used across all departments in the region and by other teams within the company.",
-        "Contributed to sales, project calculations and -tracking across the region.",
-        "Participated in project group to establish new guidelines for tender management.",
-        "Helped implement new national framework agreements for the VA sector, benefiting 200 customers as well as simplifying the job for employees in the northern region."
+        "Increased sales and expanded the department's customer base.",
+        "Primary responsibility for procurement agreement with 13 municipalities in Salten.",
+        "Developed integration between tender calculation software and ISY Linker enabling digital offers.",
+        "Designed and implemented digital tender tracking and project systems that automated workflows, integrated internal and external data sources, and were adopted region-wide.",
+        "Contributed to sales, project calculations, and tracking across the region.",
+        "Participated in a project group developing new guidelines for tender management.",
+        "Supported implementation of new national framework agreements for the VA sector, benefiting 200 customers and simplifying staff workflows."
       ]
     },
     {
       "name": "Braathe Gruppen",
       "location": "Bodø, Norway",
-      "description": "Braathe Gruppen is a forward-thinking and innovative technology provider with a vision of delivering a worry-free IT experience.",
+      "description": "Braathe Gruppen is a forward-thinking technology provider with a vision to deliver a worry-free IT experience.",
       "position": "Developer",
       "startDate": "2015-01-01",
       "endDate": "2015-12-01",
-      "summary": "Worked on a large norwegian auction site. Analyzed customer needs and opportunities, followed by implementation using Symfony and JS.",
+      "summary": "Worked on a large Norwegian auction website. Analyzed customer needs and opportunities, then implemented solutions using Symfony and JavaScript.",
       "highlights": [
         "Organized a project team of three developers and leadership.",
-        "Introduced utilization of virtual environments for development.",
-        "Enhanced workflows by optimizing issue tracking, version control systems (VCS), and continuous integration/deployment processes."
+        "Introduced the use of virtual environments for development.",
+        "Improved workflows by optimizing issue tracking, version control, and CI/CD."
       ]
     },
     {
@@ -123,9 +127,9 @@
       "position": "Developer",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Part of a large international team working on school administration software. Implemented new features, bug fixes, and integrations with internal and external APIs.",
+      "summary": "Part of an international team working on school administration software. Implemented new features, bug fixes, and internal/external API integrations.",
       "highlights": [
-        "Contributed to the project's modernization, including updates to the tech stack and tools such as Gulp, SASS, and Vagrant."
+        "Contributed to project modernization, including updates to the tech stack and tools such as Gulp, SASS, and Vagrant."
       ]
     },
     {
@@ -135,7 +139,7 @@
       "position": "Consultant",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "summary": "Handled tender calculations, customer and project sourcing both domestically and internationally, and followed up on offers. Analyzed customer needs and opportunities, followed by their implementation.",
+      "summary": "Handled tender calculations, customer and project sourcing domestically and internationally, and followed up on offers. Analyzed customer needs and implemented solutions.",
       "highlights": []
     },
     {
@@ -272,7 +276,7 @@
       ]
     },
     {
-      "name": "Dev ops",
+      "name": "DevOps",
       "level": "",
       "summary": "Interested in DevOps with over 15 years of hands-on experience managing a home lab and server hardware. Proficient in running various local services using Docker containers, and have established a home network with VLANs and a custom pfSense router to maintain robust security. Committed to continuous learning and applying best practices in automation, configuration management, and system reliability.",
       "keywords": [
@@ -316,29 +320,31 @@
     {
       "name": "Nature",
       "keywords": [
-        "Photography",
-        "Hikes",
-        "Camping"
+        "Hiking",
+        "Camping",
+        "Photography"
       ]
     },
     {
       "name": "Technology",
       "keywords": [
-        "Web and app development",
-        "Servers and devops"
+        "Web development",
+        "Servers",
+        "DevOps"
       ]
     },
     {
-      "name": "Automotive",
+      "name": "Veteran Cars",
       "keywords": [
-        "Cars",
-        "Mechanical/tuning"
+        "Engine and suspension work",
+        "Restoration",
+        "Veteran car enthusiast"
       ]
     },
     {
-      "name": "Sports",
+      "name": "Ice Hockey",
       "keywords": [
-        "Ice hockey"
+        "Playing and volunteering"
       ]
     }
   ],

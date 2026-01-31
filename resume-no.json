@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Ønsker å fremme et positivt arbeidsmiljø og effektivt samarbeid med kolleger og kunder. Omfattende erfaring med problemløsning, ofte gjennom å utvikle løsninger på egen hånd. Nysgjerrig av natur og proaktiv i å tilegne meg ny kunnskap på eget initiativ.",
+    "summary": "Proaktiv Fullstack-utvikler med erfaring i å bygge enterprise-applikasjoner og interne verktøy. Kompetent innen backend- og frontend-utvikling, DevOps og regulerte miljøer. Kjent for initiativ, problemløsning og å lage løsninger som forbedrer teamets arbeidsflyt.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -30,15 +30,19 @@
   },
   "work": [
     {
-      "name": "Cerpus AS",
+      "name": "Edlib AS",
       "location": "Bodø, Norge",
-      "description": "Cerpus utvikler nettbaserte løsninger for e-læring og jobber mot å bli en internasjonal leder innen innovative utdanningsløsninger.",
+      "description": "Edlib utvikler webbaserte løsninger for e-læring og digitale utdanningsplattformer, og jobber for å bli en ledende internasjonal aktør innen innovativ læringsteknologi.",
       "position": "Utvikler",
-      "url": "https://cerpus.com",
+      "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Arbeidet på ulike prosjekter i Cerpus-organisasjonen.",
+      "summary": "Arbeidet på ulike prosjekter, inkludert konsulentarbeid på komplekse helserelaterte systemer og interne plattformer.",
       "highlights": [
-        "Ledende rolle i et nytt Django-prosjekt for å lage en ny plattform for Cerpus-organisasjonen."
+        "Ledende rolle i et nytt Django-prosjekt for å bygge en ny plattform for Edlib AS.",
+        "Konsulterte på en helseapplikasjon med omfattende mikrotjenestearkitektur basert på Kubernetes.",
+        "Deltok i ISO-sertifiseringsprosesser for helsesystemer og sikkerhetsløsninger gjennom opplæring, testing og dokumentasjon.",
+        "Utviklet og vedlikeholdt backend-tjenester i Java samt frontend-løsninger med Ionic og Angular.",
+        "Tok initiativ til å designe og implementere en løsning som forbedret støtteavdelingens daglige arbeidsflyt, og mottok ros for gjennomføring og effekt."
       ]
     },
     {
@@ -48,7 +52,7 @@
       "position": "Utvikler",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
-      "endDate": "2025-08-27",
+      "endDate": "2025-06-18",
       "summary": "Arbeidet med frontend på både den eldre og den nye plattformen deres.",
       "highlights": [
         "Eierskap til OKR for å etablere et fundament for kvalitetskultur med mål om å redusere antall unike feil med 70%.",
@@ -96,7 +100,7 @@
         "Økte salget og utvidet kundebasen for avdelingen.",
         "Hovedansvar for innkjøpsavtale med 13 kommuner i Salten.",
         "Utviklet integrasjon mellom vårt kalkyleprogram og ISY Linker som muliggjorde digitale tilbud.",
-        "Utviklet prosjektstyrings- og lagersystemer på fritiden – tatt i bruk over hele regionen og av andre team.",
+        "Designet og utviklet prosjektstyrings- og lagersystemer på fritiden som automatiserte arbeidsflyter og integrerte med interne og eksterne datakilder. Tatt i bruk over hele regionen og av andre team.",
         "Bidro til salg, prosjektkalkulasjon og -oppfølging i hele regionen.",
         "Deltok i prosjektgruppe som utviklet nye retningslinjer for anbudshåndtering.",
         "Bidro til innføring av nye nasjonale rammeavtaler for VA-sektoren, til nytte for 200 kunder og forenkling av de ansattes arbeid."
@@ -316,23 +320,25 @@
     {
       "name": "Natur",
       "keywords": [
-        "Fotografi",
         "Turer",
-        "Camping"
+        "Camping",
+        "Fotografi"
       ]
     },
     {
       "name": "Teknologi",
       "keywords": [
-        "Web- og apputvikling",
-        "Servere og devops"
+        "Webutvikling",
+        "Servere",
+        "DevOps"
       ]
     },
     {
       "name": "Bil",
       "keywords": [
-        "Oppussing",
-        "Veteranbil"
+        "Motor og fjæring",
+        "Restaurering",
+        "Veteranbil-entusiast"
       ]
     },
     {
