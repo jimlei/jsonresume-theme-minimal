@@ -1,7 +1,7 @@
 {{#if resume.skills.length}}
 <section id="skills">
 	{{>components/header level=2 title=(t 'Skills')}}
-	<div class="grid grid-cols-2 gap-y-4 gap-x-8">
+	<div class="flex flex-col gap-2">
 		{{#each resume.skills}}
 		<article>
 			{{#if name}}
@@ -19,7 +19,7 @@
 			{{/if}}
 
 			{{#if keywords.length}}
-			{{>components/tags tags=keywords}}
+			<!--{{>components/tags tags=keywords}}-->
 			{{/if}}
 		</article>
 		{{/each}}

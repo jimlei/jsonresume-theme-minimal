@@ -1,0 +1,13 @@
+{{#if startDate}}
+<span>
+	{{#moment startDate "YYYY" datejs=false}}{{/moment}}
+</span>
+<span>
+	- 
+	{{#if endDate}}
+		{{#moment endDate "YYYY" datejs=false}}{{/moment}}
+	{{else}}
+		{{t 'Present'}}
+	{{/if}}
+</span>
+{{/if}}

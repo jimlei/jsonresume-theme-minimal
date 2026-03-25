@@ -7,17 +7,24 @@
     <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css" />
   </head>
   <body>
-    <main id="resume" class="flex flex-col gap-5 p-8 print:p-0 print:text-xs">
-      {{> basics }}
-      {{> work }}
-      {{> volunteer }}
-      {{> education }}
-      {{> awards }}
-      {{> publications }}
-      {{> skills }}
-      {{> languages }}
-      {{> interests }}
-      {{> references }}
+    <main id="resume" class="p-8 print:p-0 print:text-xs">
+      <div class="flex gap-8">
+        <div class="flex flex-col gap-5 w-3/4">
+          {{> basics }}
+          {{> work }}
+          {{> volunteer }}
+          {{> education }}
+          {{> references }}
+        </div>
+        <div class="sidebar flex flex-col gap-5 w-1/4">
+          {{> profile-picture }}
+          {{> awards }}
+          {{> publications }}
+          {{> skills }}
+          {{> languages }}
+          {{> interests }}
+        </div>
+      </div>
     </main>
     <script type="module" src="./src/main.js"></script>
   </body>

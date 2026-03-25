@@ -1,14 +1,14 @@
 {{#if resume.interests.length}}
 <section id="interests">
 	{{>components/header level=2 title=(t 'Interests')}}
-	<div class="grid grid-cols-4 gap-y-4 gap-x-8 print:grid-cols-2">
+	<div class="flex flex-col">
 		{{#each resume.interests}}
 		<div >
 			{{#if name}}
-			{{>components/header level=3 title=name}}
+				{{>components/header level=3 title=name}}
 			{{/if}}
 			{{#if keywords.length}}
-			{{>components/tags tags=keywords}}
+				<!--{{>components/tags tags=keywords}}-->
 			{{/if}}
 		</div>
 		{{/each}}

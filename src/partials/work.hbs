@@ -1,26 +1,47 @@
 {{#if resume.work.length}}
 <section id="work">
 	{{>components/header level=2 title=(t 'Work')}}
-	<div class="flex flex-col gap-3">
+	<div class="flex flex-col gap-5">
 		{{#each resume.work}}
-		<article class="flex{{#unless summary}}{{#unless @last }} -mb-3{{/unless}}{{/unless}}">
-			<div class="min-w-36 text-sm print:text-xs">
-				{{#if startDate}}
-				<span>
-					{{#moment startDate "YYYY" datejs=false}}{{/moment}}
-				</span>
-				<span>
-					- 
-					{{#if endDate}}
-						{{#moment endDate "YYYY" datejs=false}}{{/moment}}
-					{{else}}
-						{{t 'Present'}}
+		{{#if summary}}
+			<article class="flex flex-col">
+				<div class="flex">
+					<div class="font-bold text-sm print:text-xs w-24">
+						{{>components/date-range startDate=startDate endDate=endDate}}
+					</div>
+					<h3 class="font-bold">
+						{{#if name}}
+							{{name}},
+						{{/if}}
+
+						{{#if position}}
+							{{position}}
+						{{/if}}
+					</h3>
+				</div>
+				
+				<div>
+					{{#if description}}
+					<!--<p class="font-light text-sm print:text-xs italic">{{description}}</p>-->
 					{{/if}}
-				</span>
+					
+					<p>{{summary}}</p>
+
+					{{#if highlights.length}}
+					<ul class="list-disc mt-0.5">
+						{{#each highlights}}
+						<li class="ml-8">{{.}}</li>
+						{{/each}}
+					</ul>
 				{{/if}}
-			</div>
-			<div>
-				<h3 class="font-bold">
+				</div>
+			</article>
+		{{else}}
+			<article class="flex {{#unless @last}}-mb-5 {{/unless}}gap-3 text-sm print:text-xs">
+				<div>
+					{{>components/date-range startDate=startDate endDate=endDate}}
+				</div>
+				<h3>
 					{{#if name}}
 						{{name}},
 					{{/if}}
@@ -29,24 +50,8 @@
 						{{position}}
 					{{/if}}
 				</h3>
-
-				{{#if description}}
-				<p class="font-light text-sm print:text-xs italic">{{description}}</p>
-				{{/if}}
-				
-				{{#if summary}}
-				<p>{{summary}}</p>
-				{{/if}}
-
-				{{#if highlights.length}}
-				<ul class="list-disc mt-0.5">
-					{{#each highlights}}
-					<li class="ml-8">{{.}}</li>
-					{{/each}}
-				</ul>
-			{{/if}}
-			</div>
-		</article>
+			</article>
+		{{/if}}
 		{{/each}}
 	</div>
 </section>

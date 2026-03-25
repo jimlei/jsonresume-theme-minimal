@@ -1,4 +1,3 @@
-{{#if resume.references.length}}
 <section id="references">
 	{{>components/header level=2 title=(t 'References')}}
 	{{#each resume.references}}
@@ -14,6 +13,7 @@
 		</div>
 		{{/if}}
 	</div>
+	{{else}}
+		<p>{{t 'References provided upon request.'}}</p>
 	{{/each}}
 </section>
-{{/if}}

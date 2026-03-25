@@ -9,7 +9,8 @@ export const translations = {
     'Publications': 'Publications',
     'Awards': 'Awards',
     'References': 'References',
-    'Present': 'Present'
+    'Present': 'Present',
+    'References provided upon request.': 'References provided upon request.'
   },
   no: {
     'Work': 'Arbeidserfaring',
@@ -21,6 +22,7 @@ export const translations = {
     'Publications': 'Publikasjoner',
     'Awards': 'Utmerkelser',
     'References': 'Referanser',
-    'Present': 'Nå'
+    'Present': 'Nå',
+    'References provided upon request.': 'Referanser leveres ved forespørsel.'
   }
 } 
