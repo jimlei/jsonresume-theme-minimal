@@ -243,7 +243,7 @@
     {
       "name": "Backend-utvikling",
       "level": "",
-      "summary": "Erfaren innen backend-utvikling med god forståelse av programmeringsprinsipper og ekspertise i integrasjon med både interne og eksterne tjenester. Lidenskapelig opptatt av sikkerhet, med fokus på å forutse fremtidige behov hos utviklere og håndtere potensielle sikkerhetsrisikoer ved implementering av nye funksjoner.",
+      "summary": "Bygger og vedlikeholder API-er og tjenester i Go, PHP, Node og Python. Jobber med relasjonelle og dokumentdatabaser, Redis, RabbitMQ og BaaS (f.eks. Supabase). Integrerer interne og tredjepartssystemer; designer for sikkerhet og langsiktig vedlikehold.",
       "keywords": [
         "Go",
         "Laravel",
@@ -262,7 +262,7 @@
     {
       "name": "Frontend-utvikling",
       "level": "",
-      "summary": "Dyktig innen frontend-utvikling med dyp forståelse for designprinsipper, brukeropplevelse og bransjestandard verktøy. Kompetent til å oversette design til semantiske, gjenbrukbare komponenter for både web og mobilapplikasjoner.",
+      "summary": "Leverer grensesnitt i React og Vue med TypeScript, Tailwind og CSS. Fra Figma til produksjon: semantiske, gjenbrukbare komponenter, gjennomtenkt UX og Playwright-tester der de gir verdi.",
       "keywords": [
         "CSS",
         "Figma",
@@ -278,7 +278,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "Interesse for DevOps med over 15 års praktisk erfaring med å administrere hjemmelab og servermaskinvare. Dyktig i å kjøre ulike lokale tjenester med Docker-containere, og har etablert hjemmenettverk med VLAN og en tilpasset pfSense-router for å opprettholde robust sikkerhet. Engasjert i kontinuerlig læring og anvendelse av beste praksis innen automatisering, konfigurasjonsstyring og systempålitelighet.",
+      "summary": "Bruker Docker og Kubernetes i praksis; drifter og utruller på AWS. På fritiden kjører homelab-tjenester på ekte maskinvare med segmentert nett (VLAN, pfSense)—hands-on med nettverk, pålitelighet og automatisering.",
       "keywords": [
         "AWS",
         "Docker",
@@ -289,7 +289,7 @@
     {
       "name": "Sikkerhet",
       "level": "",
-      "summary": "Med over 25 års erfaring, startet med modifikasjoner til en kjent open-source C++-applikasjon, har jeg utviklet sterk fokus på web-sikkerhet gjennom både hobbyprosjekter og konsulentoppdrag. Jeg har en proaktiv tilnærming ved å anta at systemer kan bli kompromittert, og planlegger forsvar deretter. Min sikkerhetstenkning inkluderer oppdeling av systemer, isolasjon av upålitelige enheter på egne VLAN, og bruk av QubesOS på hovedstasjonær og bærbar PC for økt sikkerhet.",
+      "summary": "Web- og API-sikkerhet, nettverksarkitektur og hardening av endepunkter—gjennom konsulentarbeid og langsiktig egen praksis. Tenker «antatt brudd»: begrenser skadeomfang med segmentering (VLAN), tydelige tillitsgrenser.",
       "keywords": [
         "Web",
         "Nettverk",

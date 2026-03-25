@@ -243,7 +243,7 @@
     {
       "name": "Back End Development",
       "level": "",
-      "summary": "Experienced in back-end development with a solid grasp of coding principles and expertise in integrating with both internal and external services. Passionate about security, with a focus on anticipating future developer needs and addressing potential security risks when implementing new features.",
+      "summary": "Builds and maintains APIs and services in Go, PHP, Node, and Python. Works with relational and document databases, Redis, RabbitMQ, and BaaS (e.g. Supabase). Integrates internal and third-party systems; designs for security and long-term maintainability.",
       "keywords": [
         "Go",
         "Laravel",
@@ -262,7 +262,7 @@
     {
       "name": "Front End Development",
       "level": "",
-      "summary": "Proficient in front-end development with a deep understanding of design principles, user experience, and industry-standard tools. Skilled at translating designs into semantic, reusable components for both web and mobile applications.",
+      "summary": "Delivers UIs in React and Vue with TypeScript, Tailwind, and CSS. Works from Figma through implementation: semantic, reusable components, sensible UX, and Playwright tests where they add value.",
       "keywords": [
         "CSS",
         "Figma",
@@ -278,7 +278,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "Interested in DevOps with over 15 years of hands-on experience managing a home lab and server hardware. Proficient in running various local services using Docker containers, and have established a home network with VLANs and a custom pfSense router to maintain robust security. Committed to continuous learning and applying best practices in automation, configuration management, and system reliability.",
+      "summary": "Uses Docker and Kubernetes in real workflows; deploys and operates on AWS. Outside work, runs homelab services on real hardware with a segmented network (VLANs, pfSense)—hands-on practice with networking, reliability, and automation.",
       "keywords": [
         "AWS",
         "Docker",
@@ -289,7 +289,7 @@
     {
       "name": "Security",
       "level": "",
-      "summary": "With over 25 years of experience, starting with modifications to a well-known open-source C++ application, I have developed a strong focus on web security through both hobby projects and consulting. I adopt a proactive approach by assuming systems may be compromised and plan defenses accordingly. My security mindset includes compartmentalizing systems, isolating untrusted devices on separate VLANs, and using QubesOS on my main desktop and laptop for enhanced security.",
+      "summary": "Web and API security, network architecture, and endpoint hardening—through consulting and long-running personal work. Assumes breach: limits blast radius with segmentation (VLANs), strict trust boundaries.",
       "keywords": [
         "Web",
         "Network",
