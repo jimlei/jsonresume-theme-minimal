@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Full-stack developer with emphasis on quality, security, and maintainability—including where regulation and compliance matter.",
+    "summary": "Fullstack system developer with experience delivering business-critical solutions across both backend and frontend. I build robust services and applications with a strong focus on quality, security, testability, and operability. I thrive in cross-functional teams, take ownership from idea to production, and improve architecture and workflows where technology meets real operational needs.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -36,13 +36,14 @@
       "position": "Developer",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Worked on various projects, including consulting on complex healthcare-related systems and internal platforms.",
+      "summary": "Fullstack developer in high-complexity projects, including systems in regulated domains and internal platforms.",
       "highlights": [
-        "Lead role in a new Django project to build a new platform for Edlib AS.",
-        "Consulted on a healthcare application with an extensive Kubernetes-based microservice architecture.",
-        "Participated in ISO certification processes for healthcare systems and security solutions through training, testing, and documentation.",
-        "Developed and maintained backend services in Java and frontend applications using Ionic and Angular.",
-        "Initiated, designed, and implemented a solution that improved daily workflows for the support staff, receiving internal recognition for impact and execution."
+        "Led the startup of a new Django-based platform project with responsibility for technical choices, structure, and delivery progress.",
+        "Contributed to development and maintenance of backend services in Java and frontend applications in Ionic/Angular.",
+        "Worked closely with cross-functional teams to deliver solutions supporting critical workflows and day-to-day operations.",
+        "Contributed to ISO-related quality and security work through documentation, testing, and process improvements.",
+        "Initiated and implemented a solution that improved daily workflows for the support team.",
+        "Worked in a team using Azure DevOps for task management, builds, and pipelines while developing a healthcare application."
       ]
     },
     {
@@ -53,11 +54,11 @@
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Worked on frontend development for both their legacy and new platforms.",
+      "summary": "Frontend and test-focused developer across both legacy and new platform, with clear ownership of quality.",
       "highlights": [
-        "Ownership of OKR to establish a foundation for a quality culture with the goal to reduce the number of unique issues by 70%.",
-        "Worked across teams and projects to improve end-to-end and acceptance testing.",
-        "Initiated and motivated colleagues to participate in CTF (Cyberlandslaget 2025)."
+        "Owned OKR work focused on quality improvements with the goal of significantly reducing unique issues.",
+        "Improved cross-team test strategy with emphasis on end-to-end and acceptance testing.",
+        "Contributed through close collaboration between product and development for safer deliveries and better flow."
       ]
     },
     {
@@ -68,10 +69,10 @@
       "url": "https://gamilab.com",
       "startDate": "2022-03-01",
       "endDate": "2023-04-30",
-      "summary": "Worked on a platform offering gamified educational content for schools used worldwide. The platform was based on Laravel, and the games were built for both mobile and browser using JavaScript.",
+      "summary": "Fullstack developer on an international learning platform, with responsibility in both product improvement and delivery.",
       "highlights": [
-        "Led implementation of a new design across the entire platform and components.",
-        "Contributed to research, development, implementation, and launch of three successful JavaScript games on the platform."
+        "Led implementation of a new design system across platform and components.",
+        "Contributed to development and launch of JavaScript-based games used in schools internationally."
       ]
     },
     {
@@ -250,7 +251,7 @@
     {
       "name": "Back End Development",
       "level": "",
-      "summary": "I build and maintain APIs and services in Go, PHP, Node, and Python, and I work a lot with relational and document databases, Redis, RabbitMQ, and BaaS like Supabase. I care about wiring internal and third-party systems together cleanly and about architecture that stays secure and maintainable over time.",
+      "summary": "Build and maintain backend services and APIs in technologies including Go, PHP, Node, and Python. Strong experience with relational databases, data modeling, and integrations across internal and external systems.",
       "keywords": [
         "Go",
         "Laravel",
@@ -269,7 +270,7 @@
     {
       "name": "Front End Development",
       "level": "",
-      "summary": "I work mainly in React and Vue with TypeScript, Tailwind, and CSS. I enjoy taking Figma designs through to production with semantic, reusable components and UX that stays practical. I add Playwright coverage when the trade-off clearly makes sense.",
+      "summary": "Develop user interfaces in React/Vue with TypeScript, Tailwind, and CSS. Focus on robust components, good user experience, and solutions that remain stable in production.",
       "keywords": [
         "CSS",
         "Figma",
@@ -285,7 +286,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "I use Docker and Kubernetes in day-to-day work and ship to AWS. On my own time I run homelab services on real hardware with a segmented network (VLANs, pfSense)—I like keeping my hands dirty with networking, reliability, and automation.",
+      "summary": "Experience with Docker and Kubernetes in day-to-day work, as well as deliveries to AWS. Hands-on with operability, networking, and automation.",
       "keywords": [
         "AWS",
         "Docker",

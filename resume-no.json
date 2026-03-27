@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Fullstack-utvikler med vekt på kvalitet, sikkerhet og vedlikeholdbarhet, også i regulerte miljøer.",
+    "summary": "Fullstack systemutvikler med erfaring fra forretningskritiske løsninger i både backend og frontend. Jeg bygger robuste tjenester og applikasjoner med fokus på kvalitet, sikkerhet, testbarhet og driftbarhet. Trives i tverrfaglige team, tar eierskap fra idé til produksjon, og forbedrer arkitektur og arbeidsprosesser der teknologi møter reelle operasjonelle behov.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -36,13 +36,14 @@
       "position": "Utvikler",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Arbeidet på ulike prosjekter, inkludert konsulentarbeid på komplekse helserelaterte systemer og interne plattformer.",
+      "summary": "Fullstack utvikler i prosjekter med høy kompleksitet, inkludert systemer i regulerte domener og interne plattformer.",
       "highlights": [
-        "Ledende rolle i et nytt Django-prosjekt for å bygge en ny plattform for Edlib AS.",
-        "Konsulterte på en helseapplikasjon med omfattende mikrotjenestearkitektur basert på Kubernetes.",
-        "Deltok i ISO-sertifiseringsprosesser for helsesystemer og sikkerhetsløsninger gjennom opplæring, testing og dokumentasjon.",
-        "Utviklet og vedlikeholdt backend-tjenester i Java samt frontend-løsninger med Ionic og Angular.",
-        "Tok initiativ til å designe og implementere en løsning som forbedret støtteavdelingens daglige arbeidsflyt, og mottok ros for gjennomføring og effekt."
+        "Ledet oppstart av nytt Django-basert plattformprosjekt med ansvar for tekniske valg, struktur og fremdrift.",
+        "Bidro i utvikling og vedlikehold av backend-tjenester i Java og frontend-applikasjoner i Ionic/Angular.",
+        "Jobbet tett med ulike fagmiljøer for å levere løsninger som støtter kritiske arbeidsprosesser og daglig drift.",
+        "Deltok i ISO-relatert kvalitets- og sikkerhetsarbeid gjennom dokumentasjon, testing og forbedring av praksis.",
+        "Tok initiativ til og implementerte en løsning som forbedret daglige arbeidsflyter for supportmiljøet.",
+        "Arbeidet i team med Azure DevOps for oppgavestyring, builds og pipelines i utvikling av helsefaglig applikasjon."
       ]
     },
     {
@@ -53,11 +54,11 @@
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Arbeidet med frontend på både den eldre og den nye plattformen deres.",
+      "summary": "Frontend- og testfokusert utvikler på både legacy og ny plattform, med tydelig eierskap til kvalitet.",
       "highlights": [
-        "Eierskap til OKR for å etablere et fundament for kvalitetskultur med mål om å redusere antall unike feil med 70%.",
-        "Fikk ansvar for å jobbe på tvers av team og prosjekter for å forbedre e2e- og akseptansetestingen.",
-        "Tok initiativ til og motiverte kolleger til å delta i CTF (Cyberlandslaget 2025)."
+        "Eide OKR-arbeid for kvalitetsløft med mål om betydelig reduksjon i unike feil.",
+        "Forbedret teststrategi på tvers av team med fokus på ende-til-ende- og akseptansetesting.",
+        "Bidro i tett samarbeid mellom produkt og utvikling for tryggere leveranser og bedre flyt."
       ]
     },
     {
@@ -68,10 +69,10 @@
       "url": "https://gamilab.com",
       "startDate": "2022-03-01",
       "endDate": "2023-04-30",
-      "summary": "Arbeidet på en plattform som tilbyr spillbasert læringsinnhold til skoler og er i bruk over hele verden. Plattformen var basert på Laravel, og spillene ble laget for både mobil og nettleser med JavaScript.",
+      "summary": "Fullstack utvikler på internasjonal læringsplattform, med ansvar i både produktforbedring og leveranse.",
       "highlights": [
-        "Ledende rolle i implementering av nytt design over hele nettstedet og komponentene.",
-        "Bidro til research, utvikling, implementering og lansering av tre vellykkede JavaScript-spill på plattformen."
+        "Ledet implementering av nytt designsystem på tvers av plattform og komponenter.",
+        "Bidro til utvikling og lansering av JavaScript-baserte spill brukt i skolesammenheng internasjonalt."
       ]
     },
     {
@@ -250,7 +251,7 @@
     {
       "name": "Backend-utvikling",
       "level": "",
-      "summary": "Jeg bygger og vedlikeholder API-er og tjenester i Go, PHP, Node og Python, og jobber mye med relasjonelle og dokumentdatabaser, Redis, RabbitMQ og BaaS som Supabase. Jeg bryr meg om å koble interne og tredjepartssystemer ryddig sammen, og om arkitektur som forblir sikker og vedlikeholdbar over tid.",
+      "summary": "Bygger og vedlikeholder backend-tjenester og API-er i blant annet Go, PHP, Node og Python. God erfaring med relasjonsdatabaser, datamodellering og integrasjoner mellom interne og eksterne systemer.",
       "keywords": [
         "Go",
         "Laravel",
@@ -269,7 +270,7 @@
     {
       "name": "Frontend-utvikling",
       "level": "",
-      "summary": "Jeg jobber mest i React og Vue med TypeScript, Tailwind og CSS. Jeg liker å ta design fra Figma helt til produksjon med semantiske, gjenbrukbare komponenter og UX som holder seg enkel og fornuftig. Playwright legger jeg inn når avveiningen klart lønner seg.",
+      "summary": "Utvikler brukerflater i React/Vue med TypeScript, Tailwind og CSS. Vektlegger robuste komponenter, god brukeropplevelse og løsninger som fungerer stabilt i drift.",
       "keywords": [
         "CSS",
         "Figma",
@@ -285,7 +286,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "Jeg bruker Docker og Kubernetes i hverdagen og ruller ut på AWS. På fritiden kjører jeg homelab på ekte maskinvare med segmentert nett (VLAN, pfSense)—jeg liker å holde meg nær det praktiske rundt nettverk, pålitelighet og automatisering.",
+      "summary": "Erfaring med Docker og Kubernetes i daglig arbeid, samt leveranser til AWS. Jobber praktisk med driftbarhet, nettverk og automatisering.",
       "keywords": [
         "AWS",
         "Docker",
