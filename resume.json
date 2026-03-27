@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
   "basics": {
-    "name": "Jim leirvik",
+    "name": "Jim Leirvik",
     "birthDate": "1985-03-21",
     "label": "Developer",
     "image": "https://avatars.githubusercontent.com/u/4523053",
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Proactive Fullstack Developer with experience building enterprise-grade applications and internal tools. Skilled in backend and frontend development, DevOps, and regulated environments. Known for initiative, problem-solving, and creating solutions that improve team workflows.",
+    "summary": "Full-stack developer with emphasis on quality, security, and maintainability—including where regulation and compliance matter.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -17,12 +17,12 @@
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "GitHub",
         "username": "jimlei",
         "url": "https://github.com/jimlei"
       },
       {
-        "network": "Stackoverflow",
+        "network": "Stack Overflow",
         "username": "jiml",
         "url": "https://stackoverflow.com/users/1078488/jiml"
       }
@@ -188,7 +188,7 @@
       "description": "",
       "position": "Driver",
       "startDate": "2006-01-01",
-      "endDate": "2006-01-06",
+      "endDate": "2006-06-01",
       "summary": "",
       "highlights": []
     },
@@ -206,14 +206,14 @@
   "volunteer": [
     {
       "organization": "Bodø Ishockeyklubb",
-      "position": "Klubbleder / Nestleder / Nettansvarlig",
+      "position": "Club chair, deputy chair, web administration",
       "startDate": "2010-01-01",
       "endDate": "2014-01-01",
       "highlights": []
     },
     {
       "organization": "Club Honda Norge",
-      "position": "Nestleder / Nettansvarlig / Nettbutikk",
+      "position": "Deputy chair, web administration, online store",
       "startDate": "2007-01-01",
       "endDate": "2012-01-01",
       "highlights": []
@@ -243,7 +243,7 @@
     {
       "name": "Back End Development",
       "level": "",
-      "summary": "Builds and maintains APIs and services in Go, PHP, Node, and Python. Works with relational and document databases, Redis, RabbitMQ, and BaaS (e.g. Supabase). Integrates internal and third-party systems; designs for security and long-term maintainability.",
+      "summary": "I build and maintain APIs and services in Go, PHP, Node, and Python, and I work a lot with relational and document databases, Redis, RabbitMQ, and BaaS like Supabase. I care about wiring internal and third-party systems together cleanly and about architecture that stays secure and maintainable over time.",
       "keywords": [
         "Go",
         "Laravel",
@@ -262,15 +262,15 @@
     {
       "name": "Front End Development",
       "level": "",
-      "summary": "Delivers UIs in React and Vue with TypeScript, Tailwind, and CSS. Works from Figma through implementation: semantic, reusable components, sensible UX, and Playwright tests where they add value.",
+      "summary": "I work mainly in React and Vue with TypeScript, Tailwind, and CSS. I enjoy taking Figma designs through to production with semantic, reusable components and UX that stays practical. I add Playwright coverage when the trade-off clearly makes sense.",
       "keywords": [
         "CSS",
         "Figma",
-        "Javascript",
+        "JavaScript",
         "Playwright",
         "React",
         "Tailwind",
-        "Typescript",
+        "TypeScript",
         "User Experience",
         "Vue"
       ]
@@ -278,7 +278,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "Uses Docker and Kubernetes in real workflows; deploys and operates on AWS. Outside work, runs homelab services on real hardware with a segmented network (VLANs, pfSense)—hands-on practice with networking, reliability, and automation.",
+      "summary": "I use Docker and Kubernetes in day-to-day work and ship to AWS. On my own time I run homelab services on real hardware with a segmented network (VLANs, pfSense)—I like keeping my hands dirty with networking, reliability, and automation.",
       "keywords": [
         "AWS",
         "Docker",
@@ -289,12 +289,13 @@
     {
       "name": "Security",
       "level": "",
-      "summary": "Web and API security, network architecture, and endpoint hardening—through consulting and long-running personal work. Assumes breach: limits blast radius with segmentation (VLANs), strict trust boundaries.",
+      "summary": "I'm genuinely interested in web and API security, network design, and hardening endpoints—in client work and in long-running personal practice. I've taken part in many hackathons; a highlight was reaching the semi-final as one of 63 contestants out of 421 in Master of Cyber Security at HackCon 2021. I plan as if breach is inevitable: segmentation (VLANs), tight trust boundaries, and defenses that limit blast radius.",
       "keywords": [
         "Web",
         "Network",
         "Hardware",
-        "Social"
+        "Social",
+        "Hackathons"
       ]
     }
   ],
@@ -359,7 +360,7 @@
         "Figma",
         "Playwright",
         "React",
-        "Typescript",
+        "TypeScript",
         "Tailwind"
       ],
       "startDate": "2023-05-01",
@@ -375,7 +376,7 @@
       "keywords": [
         "Figma",
         "Laravel",
-        "Javascript",
+        "JavaScript",
         "Tailwind"
       ],
       "startDate": "2022-03-01",
@@ -409,7 +410,7 @@
       "url": "http://www.club-honda.org",
       "description": "The website and forums were built using Joomla CMS and vBulletin, with custom-developed components to integrate with our e-commerce partner, shipping providers, and subscription services for website and forum access. A custom vBulletin module was also created to allow club partners to advertise their products and services, offering promotions. The club has since discontinued operations.",
       "keywords": [
-        "Javascript",
+        "JavaScript",
         "PHP"
       ],
       "startDate": "2007-01-01"

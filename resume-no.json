@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
   "basics": {
-    "name": "Jim leirvik",
+    "name": "Jim Leirvik",
     "birthDate": "1985-03-21",
     "label": "Utvikler",
     "image": "https://avatars.githubusercontent.com/u/4523053",
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Proaktiv Fullstack-utvikler med erfaring i å bygge enterprise-applikasjoner og interne verktøy. Kompetent innen backend- og frontend-utvikling, DevOps og regulerte miljøer. Kjent for initiativ, problemløsning og å lage løsninger som forbedrer teamets arbeidsflyt.",
+    "summary": "Fullstack-utvikler med vekt på kvalitet, sikkerhet og vedlikeholdbarhet, også i regulerte miljøer.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -17,12 +17,12 @@
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "GitHub",
         "username": "jimlei",
         "url": "https://github.com/jimlei"
       },
       {
-        "network": "Stackoverflow",
+        "network": "Stack Overflow",
         "username": "jiml",
         "url": "https://stackoverflow.com/users/1078488/jiml"
       }
@@ -188,7 +188,7 @@
       "description": "",
       "position": "Sjåfør",
       "startDate": "2006-01-01",
-      "endDate": "2006-01-06",
+      "endDate": "2006-06-01",
       "summary": "",
       "highlights": []
     },
@@ -206,14 +206,14 @@
   "volunteer": [
     {
       "organization": "Bodø Ishockeyklubb",
-      "position": "Klubbleder / Nestleder / Nettansvarlig",
+      "position": "Klubbleder, nestleder og nettansvarlig",
       "startDate": "2010-01-01",
       "endDate": "2014-01-01",
       "highlights": []
     },
     {
       "organization": "Club Honda Norge",
-      "position": "Nestleder / Nettansvarlig / Nettbutikk",
+      "position": "Nestleder, nettansvarlig og nettbutikk",
       "startDate": "2007-01-01",
       "endDate": "2012-01-01",
       "highlights": []
@@ -243,7 +243,7 @@
     {
       "name": "Backend-utvikling",
       "level": "",
-      "summary": "Bygger og vedlikeholder API-er og tjenester i Go, PHP, Node og Python. Jobber med relasjonelle og dokumentdatabaser, Redis, RabbitMQ og BaaS (f.eks. Supabase). Integrerer interne og tredjepartssystemer; designer for sikkerhet og langsiktig vedlikehold.",
+      "summary": "Jeg bygger og vedlikeholder API-er og tjenester i Go, PHP, Node og Python, og jobber mye med relasjonelle og dokumentdatabaser, Redis, RabbitMQ og BaaS som Supabase. Jeg bryr meg om å koble interne og tredjepartssystemer ryddig sammen, og om arkitektur som forblir sikker og vedlikeholdbar over tid.",
       "keywords": [
         "Go",
         "Laravel",
@@ -262,15 +262,15 @@
     {
       "name": "Frontend-utvikling",
       "level": "",
-      "summary": "Leverer grensesnitt i React og Vue med TypeScript, Tailwind og CSS. Fra Figma til produksjon: semantiske, gjenbrukbare komponenter, gjennomtenkt UX og Playwright-tester der de gir verdi.",
+      "summary": "Jeg jobber mest i React og Vue med TypeScript, Tailwind og CSS. Jeg liker å ta design fra Figma helt til produksjon med semantiske, gjenbrukbare komponenter og UX som holder seg enkel og fornuftig. Playwright legger jeg inn når avveiningen klart lønner seg.",
       "keywords": [
         "CSS",
         "Figma",
-        "Javascript",
+        "JavaScript",
         "Playwright",
         "React",
         "Tailwind",
-        "Typescript",
+        "TypeScript",
         "Brukeropplevelse",
         "Vue"
       ]
@@ -278,7 +278,7 @@
     {
       "name": "DevOps",
       "level": "",
-      "summary": "Bruker Docker og Kubernetes i praksis; drifter og utruller på AWS. På fritiden kjører homelab-tjenester på ekte maskinvare med segmentert nett (VLAN, pfSense)—hands-on med nettverk, pålitelighet og automatisering.",
+      "summary": "Jeg bruker Docker og Kubernetes i hverdagen og ruller ut på AWS. På fritiden kjører jeg homelab på ekte maskinvare med segmentert nett (VLAN, pfSense)—jeg liker å holde meg nær det praktiske rundt nettverk, pålitelighet og automatisering.",
       "keywords": [
         "AWS",
         "Docker",
@@ -289,12 +289,13 @@
     {
       "name": "Sikkerhet",
       "level": "",
-      "summary": "Web- og API-sikkerhet, nettverksarkitektur og hardening av endepunkter—gjennom konsulentarbeid og langsiktig egen praksis. Tenker «antatt brudd»: begrenser skadeomfang med segmentering (VLAN), tydelige tillitsgrenser.",
+      "summary": "Jeg er genuint opptatt av web- og API-sikkerhet, nettverksdesign og hardening av endepunkter—i oppdrag og i egen praksis over tid. Jeg har deltatt på mange hackathons; et høydepunkt var delfinalen i Master of Cyber Security under HackCon 2021, som en av 63 av 421 deltakere. Jeg planlegger som om brudd er uunngåelig: segmentering (VLAN), strenge tillitsgrenser og forsvar som begrenser skadeomfang.",
       "keywords": [
         "Web",
         "Nettverk",
         "Maskinvare",
-        "Sosial"
+        "Sosial",
+        "Hackathons"
       ]
     }
   ],
@@ -359,7 +360,7 @@
         "Figma",
         "Playwright",
         "React",
-        "Typescript",
+        "TypeScript",
         "Tailwind"
       ],
       "startDate": "2023-05-01",
@@ -375,7 +376,7 @@
       "keywords": [
         "Figma",
         "Laravel",
-        "Javascript",
+        "JavaScript",
         "Tailwind"
       ],
       "startDate": "2022-03-01",
@@ -409,7 +410,7 @@
       "url": "http://www.club-honda.org",
       "description": "Nettsted og forum bygget med Joomla CMS og vBulletin, med egendefinerte komponenter som integrerer med e-handels-partner, fraktleverandører og abonnementstjenester. Et eget vBulletin-modul ble også utviklet for å la klubbpartnere reklamere for produkter og tilbud. Klubben er nå nedlagt.",
       "keywords": [
-        "Javascript",
+        "JavaScript",
         "PHP"
       ],
       "startDate": "2007-01-01"
