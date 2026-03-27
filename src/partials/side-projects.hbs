@@ -1,0 +1,31 @@
+{{#if resume.sideProjects.length}}
+<section id="side-projects">
+	{{>components/header level=2 title=(t 'Side Projects')}}
+	<div class="flex flex-col gap-3">
+		{{#each resume.sideProjects}}
+		<article>
+			{{#if name}}
+			<div class="font-bold">
+				{{#if url}}<a href="{{url}}">{{name}}</a>{{else}}{{name}}{{/if}}
+			</div>
+			{{/if}}
+
+			{{#if startDate}}
+			<div class="text-sm">
+				{{moment startDate "YYYY" datejs=false}}
+				{{#if endDate}} - {{moment endDate "YYYY" datejs=false}}{{/if}}
+			</div>
+			{{/if}}
+
+			{{#if description}}
+			<p>{{description}}</p>
+			{{/if}}
+
+			{{#if keywords.length}}
+			{{>components/tags tags=keywords}}
+			{{/if}}
+		</article>
+		{{/each}}
+	</div>
+</section>
+{{/if}}

@@ -1,13 +1,25 @@
 {{#if startDate}}
-<span>
-	{{#moment startDate "YYYY" datejs=false}}{{/moment}}
-</span>
-<span>
-	- 
+	{{#if format}}
+		{{moment startDate format datejs=false}}
+	{{else}}
+		{{#if short}}
+			{{moment startDate "YYYY" datejs=false}}
+		{{else}}
+			{{moment startDate "MMM YYYY" datejs=false}}
+		{{/if}}
+	{{/if}}
+	-
 	{{#if endDate}}
-		{{#moment endDate "YYYY" datejs=false}}{{/moment}}
+		{{#if format}}
+			{{moment endDate format datejs=false}}
+		{{else}}
+			{{#if short}}
+				{{moment endDate "YYYY" datejs=false}}
+			{{else}}
+				{{moment endDate "MMM YYYY" datejs=false}}
+			{{/if}}
+		{{/if}}
 	{{else}}
 		{{t 'Present'}}
 	{{/if}}
-</span>
 {{/if}}

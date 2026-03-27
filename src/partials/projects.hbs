@@ -1,0 +1,37 @@
+{{#if resume.projects.length}}
+<section id="projects">
+	{{>components/header level=2 title=(t 'Projects')}}
+	<div class="flex flex-col gap-3">
+		{{#each resume.projects}}
+		<article class="flex">
+			<div class="text-sm font-bold w-24 print:w-20">
+				{{#if startDate}}
+					{{moment startDate "YYYY" datejs=false}}
+				{{/if}}
+				{{#if endDate}}
+					- {{moment endDate "YYYY" datejs=false}}
+				{{/if}}
+			</div>
+			<div>
+				{{#if name}}
+				<span class="font-bold">
+					{{#if url}}<a href="{{url}}">{{name}}</a>{{else}}{{name}}{{/if}}
+				</span>
+				{{/if}}
+				{{#if entity}}
+				<span>{{#if name}}, {{/if}}{{entity}}</span>
+				{{/if}}
+
+				{{#if description}}
+				<p>{{description}}</p>
+				{{/if}}
+
+				{{#if keywords.length}}
+				{{>components/tags tags=keywords}}
+				{{/if}}
+			</div>
+		</article>
+		{{/each}}
+	</div>
+</section>
+{{/if}}

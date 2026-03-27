@@ -5,11 +5,11 @@
 		{{#each resume.work}}
 		{{#if summary}}
 			<article class="flex flex-col">
-				<div class="flex">
-					<div class="font-bold text-sm w-32 print:text-xs print:w-24">
+				<div class="flex items-baseline">
+					<div class="shrink-0 font-bold text-sm w-36 print:text-xs print:w-32">
 						{{>components/date-range startDate=startDate endDate=endDate}}
 					</div>
-					<h3 class="font-bold">
+					<h3 class="m-0 font-bold leading-snug">
 						{{#if name}}
 							{{name}},
 						{{/if}}
@@ -37,11 +37,11 @@
 				</div>
 			</article>
 		{{else}}
-			<article class="flex {{#unless @last}}-mb-5 {{/unless}}gap-3 text-sm print:text-xs">
-				<div>
-					{{>components/date-range startDate=startDate endDate=endDate}}
+			<article class="flex items-baseline {{#unless @last}}-mb-5 {{/unless}} text-sm print:text-xs">
+				<div class="shrink-0 font-bold w-36 print:w-32">
+					{{>components/date-range startDate=startDate endDate=endDate short=true}}
 				</div>
-				<h3>
+				<h3 class="m-0 font-bold leading-snug">
 					{{#if name}}
 						{{name}},
 					{{/if}}

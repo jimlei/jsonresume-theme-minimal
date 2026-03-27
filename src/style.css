@@ -3,9 +3,7 @@
 @tailwind utilities;
 
 @media print {
-    article,
-    .sidebar section {
-      break-inside: avoid;
-    }
+  article {
+    break-inside: avoid;
   }
-  
+}
