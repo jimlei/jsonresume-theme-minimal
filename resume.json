@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Fullstack system developer with experience delivering business-critical solutions across both backend and frontend. I build robust services and applications with a strong focus on quality, security, testability, and operability. I thrive in cross-functional teams, take ownership from idea to production, and improve architecture and workflows where technology meets real operational needs.",
+    "summary": "Fullstack developer with 10+ years of experience building and evolving business-critical systems across backend and frontend. I specialize in designing robust services, improving system quality through testing and architecture, and driving initiatives from idea to production.\n\nLed platform initiatives, improved cross-team testing, and shipped internal tools that streamline operations. I focus on technical choices that shape real workflows—especially in regulated or complex domains.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -36,14 +36,14 @@
       "position": "Developer",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Fullstack developer in high-complexity projects, including systems in regulated domains and internal platforms.",
+      "summary": "Fullstack developer on high-complexity systems in regulated domains and internal platforms.",
       "highlights": [
-        "Led the startup of a new Django-based platform project with responsibility for technical choices, structure, and delivery progress.",
-        "Contributed to development and maintenance of backend services in Java and frontend applications in Ionic/Angular.",
-        "Worked closely with cross-functional teams to deliver solutions supporting critical workflows and day-to-day operations.",
-        "Contributed to ISO-related quality and security work through documentation, testing, and process improvements.",
-        "Initiated and implemented a solution that improved daily workflows for the support team.",
-        "Worked in a team using Azure DevOps for task management, builds, and pipelines while developing a healthcare application."
+        "Led the design and rollout of a new Django-based platform, defining architecture, tech stack, and development workflows to enable scalable feature delivery.",
+        "Developed and maintained Java backend services and Angular-based web frontends for business-critical and regulated systems.",
+        "Supported ISO quality and security work through documentation, tests, and process improvements, improving reliability and audit readiness.",
+        "Designed and implemented an internal tool that streamlined support workflows, reducing manual work and improving response time.",
+        "Collaborated across disciplines on solutions aligned with critical workflows and daily operations.",
+        "Used Azure DevOps for CI/CD, work tracking, and pipelines on a healthcare application."
       ]
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Frontend and test-focused developer across both legacy and new platform, with clear ownership of quality.",
+      "summary": "Frontend and test-focused developer across legacy and new platform, with clear ownership of quality.",
       "highlights": [
-        "Owned OKR work focused on quality improvements with the goal of significantly reducing unique issues.",
-        "Improved cross-team test strategy with emphasis on end-to-end and acceptance testing.",
-        "Contributed through close collaboration between product and development for safer deliveries and better flow."
+        "Owned OKR-driven quality initiatives targeting a significant reduction in recurring issues.",
+        "Improved cross-team test strategy by introducing end-to-end and acceptance testing, reducing production issues and increasing deployment confidence.",
+        "Bridged product and engineering for safer, smoother delivery."
       ]
     },
     {
@@ -71,8 +71,8 @@
       "endDate": "2023-04-30",
       "summary": "Fullstack developer on an international learning platform, with responsibility in both product improvement and delivery.",
       "highlights": [
-        "Led implementation of a new design system across platform and components.",
-        "Contributed to development and launch of JavaScript-based games used in schools internationally."
+        "Led implementation of a new design system across platform and components, improving consistency, maintainability, and developer efficiency.",
+        "Contributed to development and launch of browser-based educational games used in schools internationally."
       ]
     },
     {
@@ -83,8 +83,9 @@
       "url": "https://www.ahlsell.no/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Lead role for tender calculations, including supplier and customer contact for all major tenders in Northern Norway, both for contractors and municipalities.",
+      "summary": "Lead role in tender calculations and end-to-end tender processes across Northern Norway, with supplier and customer contact for major contractors and municipalities.",
       "highlights": [
+        "Led end-to-end tender processes for major regional contracts, coordinating suppliers, customers, and internal teams.",
         "Participated in a project group developing and implementing new routines for offer follow-up and tracking, including CRM integrations."
       ]
     },
@@ -114,11 +115,12 @@
       "position": "Developer",
       "startDate": "2015-01-01",
       "endDate": "2015-12-01",
-      "summary": "Worked on a large Norwegian auction website. Analyzed customer needs and opportunities, then implemented solutions using Symfony and JavaScript.",
+      "summary": "Developer on a large Norwegian auction platform; delivered features using Symfony and JavaScript.",
       "highlights": [
+        "Delivered features and improvements from customer needs using Symfony and JavaScript.",
         "Organized a project team of three developers and leadership.",
-        "Introduced the use of virtual environments for development.",
-        "Improved workflows by optimizing issue tracking, version control, and CI/CD."
+        "Improved workflows by optimizing issue tracking, version control, and CI/CD.",
+        "Introduced virtualized development environments for consistency and faster onboarding."
       ]
     },
     {
@@ -128,9 +130,10 @@
       "position": "Developer",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Part of an international team working on school administration software. Implemented new features, bug fixes, and internal/external API integrations.",
+      "summary": "Part of an international team delivering school administration software.",
       "highlights": [
-        "Contributed to project modernization, including updates to the tech stack and tools such as Gulp, SASS, and Vagrant."
+        "Spearheaded modernization: stack upgrades, build tooling, and dev environments.",
+        "Delivered features, fixes, and internal and external API integrations."
       ]
     },
     {
@@ -141,7 +144,10 @@
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
       "summary": "Handled tender calculations, customer and project sourcing domestically and internationally, and followed up on offers. Analyzed customer needs and implemented solutions.",
-      "highlights": []
+      "highlights": [
+        "Analyzed customer needs and contributed to solution design and delivery on domestic and international projects.",
+        "Handled tender processes and follow-up, aligning customer requirements with delivered solutions."
+      ]
     },
     {
       "name": "Manpower (Ahlsell Bodø)",
@@ -251,13 +257,13 @@
     {
       "name": "Back End Development",
       "level": "",
-      "summary": "Build and maintain backend services and APIs in technologies including Go, PHP, Node, and Python. Strong experience with relational databases, data modeling, and integrations across internal and external systems.",
+      "summary": "Build and maintain backend services and APIs in technologies including Go, PHP, Node.js, and Python. Strong experience with relational databases, data modeling, and integrations across internal and external systems.",
       "keywords": [
         "Go",
         "Laravel",
         "MongoDB",
         "MySQL",
-        "NodeJS",
+        "Node.js",
         "PHP",
         "Python",
         "PostgreSQL",
@@ -290,14 +296,13 @@
       "keywords": [
         "AWS",
         "Docker",
-        "Kubernetes",
-        "Servers"
+        "Kubernetes"
       ]
     },
     {
       "name": "Security",
       "level": "",
-      "summary": "I'm genuinely interested in web and API security, network design, and hardening endpoints—in client work and in long-running personal practice. I've taken part in many hackathons; a highlight was reaching the semi-final as one of 63 contestants out of 421 in Master of Cyber Security at HackCon 2021. I plan as if breach is inevitable: segmentation (VLANs), tight trust boundaries, and defenses that limit blast radius.",
+      "summary": "I'm genuinely interested in web and API security, network design, and hardening endpoints—in client work and in long-running personal practice. I've taken part in many hackathons; a highlight was reaching the semi-final as one of 63 contestants out of 421 in Master of Cyber Security at HackCon 2021.",
       "keywords": [
         "Web",
         "Network",
@@ -318,7 +323,7 @@
     },
     {
       "language": "German",
-      "fluency": "Beginner/school"
+      "fluency": "Beginner"
     },
     {
       "language": "Japanese",
@@ -338,7 +343,7 @@
       "name": "Technology",
       "keywords": [
         "Web development",
-        "Servers",
+        "Homelab",
         "DevOps"
       ]
     },
@@ -399,8 +404,8 @@
   ],
   "sideProjects": [
     {
-      "name": "Unnamed tender application",
-      "description": "Tender application that scrapes Doffin.no and allows users to work together on selecting interesting tenders, itemizing posts and creating offers for their customers.",
+      "name": "Tender management platform",
+      "description": "Built a fullstack tender management platform integrating Doffin, BankID, and external APIs, enabling collaborative tender evaluation and offer generation.",
       "keywords": [
         "Alpine.js",
         "BankID",

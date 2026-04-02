@@ -8,7 +8,7 @@
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Fullstack systemutvikler med erfaring fra forretningskritiske løsninger i både backend og frontend. Jeg bygger robuste tjenester og applikasjoner med fokus på kvalitet, sikkerhet, testbarhet og driftbarhet. Trives i tverrfaglige team, tar eierskap fra idé til produksjon, og forbedrer arkitektur og arbeidsprosesser der teknologi møter reelle operasjonelle behov.",
+    "summary": "Fullstack-utvikler med 10+ års erfaring med å bygge og videreutvikle forretningskritiske systemer i både backend og frontend. Jeg spesialiserer meg på å designe robuste tjenester, forbedre systemkvalitet gjennom testing og arkitektur, og drive initiativer fra idé til produksjon.\n\nHar ledet plattforminitiativer, forbedret testing på tvers av team, og levert interne verktøy som effektiviserer drift. Jeg fokuserer på tekniske valg som former reelle arbeidsflyter—særlig i regulerte eller komplekse domener.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -36,14 +36,14 @@
       "position": "Utvikler",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Fullstack utvikler i prosjekter med høy kompleksitet, inkludert systemer i regulerte domener og interne plattformer.",
+      "summary": "Fullstack utvikler på systemer med høy kompleksitet i regulerte domener og interne plattformer.",
       "highlights": [
-        "Ledet oppstart av nytt Django-basert plattformprosjekt med ansvar for tekniske valg, struktur og fremdrift.",
-        "Bidro i utvikling og vedlikehold av backend-tjenester i Java og frontend-applikasjoner i Ionic/Angular.",
-        "Jobbet tett med ulike fagmiljøer for å levere løsninger som støtter kritiske arbeidsprosesser og daglig drift.",
-        "Deltok i ISO-relatert kvalitets- og sikkerhetsarbeid gjennom dokumentasjon, testing og forbedring av praksis.",
-        "Tok initiativ til og implementerte en løsning som forbedret daglige arbeidsflyter for supportmiljøet.",
-        "Arbeidet i team med Azure DevOps for oppgavestyring, builds og pipelines i utvikling av helsefaglig applikasjon."
+        "Ledet design og utrulling av en ny Django-basert plattform, og definerte arkitektur, teknologistakk og utviklingsarbeidsflyter for skalerbar funksjonsleveranse.",
+        "Utviklet og vedlikeholdt Java-backend og Angular-baserte webgrensesnitt for forretningskritiske og regulerte systemer.",
+        "Støttet ISO-relatert kvalitets- og sikkerhetsarbeid med dokumentasjon, testing og prosessforbedring, med høyere pålitelighet og revisjonsklarhet.",
+        "Designet og implementerte et internt verktøy som strømlinjeformet supportarbeidsflyter, reduserte manuelt arbeid og forbedret responstid.",
+        "Samarbeidet på tvers av roller om løsninger som treffer kritiske arbeidsflyter og daglig drift.",
+        "Brukte Azure DevOps til CI/CD, oppgaver og pipelines i helsefaglig applikasjon."
       ]
     },
     {
@@ -54,11 +54,11 @@
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Frontend- og testfokusert utvikler på både legacy og ny plattform, med tydelig eierskap til kvalitet.",
+      "summary": "Frontend- og testfokusert utvikler på legacy og ny plattform, med tydelig eierskap til kvalitet.",
       "highlights": [
-        "Eide OKR-arbeid for kvalitetsløft med mål om betydelig reduksjon i unike feil.",
-        "Forbedret teststrategi på tvers av team med fokus på ende-til-ende- og akseptansetesting.",
-        "Bidro i tett samarbeid mellom produkt og utvikling for tryggere leveranser og bedre flyt."
+        "Eide OKR-drevet kvalitetsarbeid med mål om betydelig færre gjentakende feil.",
+        "Forbedret teststrategi på tvers av team ved å innføre ende-til-ende- og akseptansetesting, med færre produksjonsfeil og mer pålitelig utrulling.",
+        "Koblet produkt og utvikling for tryggere og mer effektive leveranser."
       ]
     },
     {
@@ -71,8 +71,8 @@
       "endDate": "2023-04-30",
       "summary": "Fullstack utvikler på internasjonal læringsplattform, med ansvar i både produktforbedring og leveranse.",
       "highlights": [
-        "Ledet implementering av nytt designsystem på tvers av plattform og komponenter.",
-        "Bidro til utvikling og lansering av JavaScript-baserte spill brukt i skolesammenheng internasjonalt."
+        "Ledet implementering av nytt designsystem på tvers av plattform og komponenter, med bedre konsistens, vedlikeholdbarhet og utviklingstempo.",
+        "Bidro til utvikling og lansering av nettleserbaserte pedagogiske spill brukt i skoler internasjonalt."
       ]
     },
     {
@@ -83,8 +83,9 @@
       "url": "https://www.ahlsell.no/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Ledende rolle i anbudsberegning inkludert kontakt med leverandører og kunder for alle større anbud i Nord-Norge, både til entreprenører og kommuner.",
+      "summary": "Ledende rolle i anbudsberegning og helhetlige anbudsprosesser i Nord-Norge, med leverandør- og kundekontakt for større entreprenører og kommuner.",
       "highlights": [
+        "Ledet helhetlige anbudsprosesser for større regionale kontrakter, med koordinering av leverandører, kunder og interne team.",
         "Deltok i prosjektgruppe som utviklet og implementerte nye rutiner for oppfølging og sporing av tilbud, samt integrasjoner med CRM-systemet."
       ]
     },
@@ -101,7 +102,7 @@
         "Økte salget og utvidet kundebasen for avdelingen.",
         "Hovedansvar for innkjøpsavtale med 13 kommuner i Salten.",
         "Utviklet integrasjon mellom vårt kalkyleprogram og ISY Linker som muliggjorde digitale tilbud.",
-        "Designet og utviklet prosjektstyrings- og lagersystemer på fritiden som automatiserte arbeidsflyter og integrerte med interne og eksterne datakilder. Tatt i bruk over hele regionen og av andre team.",
+        "Designet og implementerte digitale systemer for anbudssporing og prosjektstyring som automatiserte arbeidsflyter, integrerte interne og eksterne datakilder, og ble tatt i bruk i hele regionen.",
         "Bidro til salg, prosjektkalkulasjon og -oppfølging i hele regionen.",
         "Deltok i prosjektgruppe som utviklet nye retningslinjer for anbudshåndtering.",
         "Bidro til innføring av nye nasjonale rammeavtaler for VA-sektoren, til nytte for 200 kunder og forenkling av de ansattes arbeid."
@@ -114,11 +115,12 @@
       "position": "Utvikler",
       "startDate": "2015-01-01",
       "endDate": "2015-12-01",
-      "summary": "Arbeidet med en stor norsk auksjonsside. Analyserte kundebehov og muligheter, implementerte løsninger med Symfony og JavaScript.",
+      "summary": "Utvikler på stor norsk auksjonsplattform; leverte funksjoner med Symfony og JavaScript.",
       "highlights": [
+        "Leverte funksjoner og forbedringer ut fra kundebehov med Symfony og JavaScript.",
         "Organiserte et prosjektteam på tre utviklere og ledelse.",
-        "Introduserte bruk av virtuelle miljøer for utvikling.",
-        "Forbedret arbeidsflyt gjennom optimalisering av sakshåndtering, versjonskontroll og CI/CD."
+        "Forbedret arbeidsflyt gjennom optimalisering av sakshåndtering, versjonskontroll og CI/CD.",
+        "Introduserte virtualiserte utviklingsmiljøer for konsistens og raskere onboarding."
       ]
     },
     {
@@ -128,9 +130,10 @@
       "position": "Utvikler",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Del av internasjonalt team som utviklet skoleadministrasjonsløsning. Implementerte funksjoner, feilretting og API-integrasjoner.",
+      "summary": "Del av internasjonalt team som leverte skoleadministrasjonsløsning.",
       "highlights": [
-        "Bidro til modernisering av prosjektet, inkludert oppdateringer til tech stack og verktøy som Gulp, SASS og Vagrant."
+        "Drev frem modernisering: stackoppgraderinger, byggverktøy og utviklingsmiljø.",
+        "Leverte funksjoner, feilretting og interne og eksterne API-integrasjoner."
       ]
     },
     {
@@ -141,7 +144,10 @@
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
       "summary": "Håndterte anbudsberegninger, kunde- og prosjektanskaffelser nasjonalt og internasjonalt, samt oppfølging av tilbud. Analyserte kundebehov og implementerte løsninger.",
-      "highlights": []
+      "highlights": [
+        "Analyserte kundebehov og bidro til løsningsdesign og leveranse i nasjonale og internasjonale prosjekter.",
+        "Håndterte anbudsprosesser og oppfølging med samsvar mellom kundekrav og levert løsning."
+      ]
     },
     {
       "name": "Manpower (Ahlsell Bodø)",
@@ -251,13 +257,13 @@
     {
       "name": "Backend-utvikling",
       "level": "",
-      "summary": "Bygger og vedlikeholder backend-tjenester og API-er i blant annet Go, PHP, Node og Python. God erfaring med relasjonsdatabaser, datamodellering og integrasjoner mellom interne og eksterne systemer.",
+      "summary": "Bygger og vedlikeholder backend-tjenester og API-er i blant annet Go, PHP, Node.js og Python. God erfaring med relasjonsdatabaser, datamodellering og integrasjoner mellom interne og eksterne systemer.",
       "keywords": [
         "Go",
         "Laravel",
         "MongoDB",
         "MySQL",
-        "NodeJS",
+        "Node.js",
         "PHP",
         "Python",
         "PostgreSQL",
@@ -290,14 +296,13 @@
       "keywords": [
         "AWS",
         "Docker",
-        "Kubernetes",
-        "Servere"
+        "Kubernetes"
       ]
     },
     {
       "name": "Sikkerhet",
       "level": "",
-      "summary": "Jeg er genuint opptatt av web- og API-sikkerhet, nettverksdesign og hardening av endepunkter—i oppdrag og i egen praksis over tid. Jeg har deltatt på mange hackathons; et høydepunkt var delfinalen i Master of Cyber Security under HackCon 2021, som en av 63 av 421 deltakere. Jeg planlegger som om brudd er uunngåelig: segmentering (VLAN), strenge tillitsgrenser og forsvar som begrenser skadeomfang.",
+      "summary": "Jeg er genuint opptatt av web- og API-sikkerhet, nettverksdesign og hardening av endepunkter—i oppdrag og i egen praksis over tid. Jeg har deltatt på mange hackathons; et høydepunkt var delfinalen i Master of Cyber Security under HackCon 2021, som en av 63 av 421 deltakere.",
       "keywords": [
         "Web",
         "Nettverk",
@@ -318,7 +323,7 @@
     },
     {
       "language": "Tysk",
-      "fluency": "Begynner/skole"
+      "fluency": "Begynner"
     },
     {
       "language": "Japansk",
@@ -338,7 +343,7 @@
       "name": "Teknologi",
       "keywords": [
         "Webutvikling",
-        "Servere",
+        "Hjemmelab",
         "DevOps"
       ]
     },
@@ -351,9 +356,9 @@
       ]
     },
     {
-      "name": "Sport",
+      "name": "Ishockey",
       "keywords": [
-        "Ishockey"
+        "Aktiv som spiller og frivillig"
       ]
     }
   ],
@@ -375,7 +380,7 @@
       "url": "https://bilberry.no/",
       "roles": [],
       "entity": "Bilberry Technologies",
-      "type": "applikasjon"
+      "type": "application"
     },
     {
       "name": "Gamilab",
@@ -399,8 +404,8 @@
   ],
   "sideProjects": [
     {
-      "name": "Unnamed tender application",
-      "description": "Anbudsapplikasjon som henter informasjon fra Doffin.no og lar brukere samarbeide om å velge interessante anbud, dele opp poster og lage tilbud til kundene sine.",
+      "name": "Plattform for anbudshåndtering",
+      "description": "Bygde en fullstack plattform for anbudshåndtering med integrasjon mot Doffin, BankID og eksterne API-er, med samarbeidsbasert anbudsvurdering og generering av tilbud.",
       "keywords": [
         "Alpine.js",
         "BankID",
