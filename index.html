@@ -7,23 +7,26 @@
     <link rel="stylesheet" href="./node_modules/bootstrap-icons/font/bootstrap-icons.css" />
   </head>
   <body>
-    <main id="resume" class="flex gap-8 p-8 print:p-0 print:text-xs">
+    <main id="resume" class="flex gap-5 p-8 print:p-0 print:text-xs">
       <div class="flex flex-col w-3/4">
         {{>components/header level=1 title=(default resume.basics.name (t 'CV'))}}
-        <div class="flex flex-col gap-5">
+        <div class="flex flex-col gap-3">
+          {{#if resume.basics.summary}}
+            <p class="whitespace-pre-line">{{resume.basics.summary}}</p>
+          {{/if}}
           {{> work }}
           {{> volunteer }}
           {{> education }}
+          {{> certificates }}
           {{> references }}
         </div>
       </div>
       <div class="sidebar flex flex-col gap-5 w-1/4">
         {{> profile-picture }}
         {{> basics }}
-        {{> awards }}
-        {{> certificates }}
-        {{> publications }}
         {{> skills }}
+        {{> awards }}
+        {{> publications }}
         {{> languages }}
         {{> interests }}
       </div>

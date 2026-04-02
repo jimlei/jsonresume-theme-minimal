@@ -1,23 +1,18 @@
 {{#resume.basics}}
 	<section id="basics" class="flex flex-col gap-2">
-		{{#if summary}}
-		<p class="mb-2">{{summary}}</p>
-		{{/if}}
-		<div class="grid grid-cols-2 gap-2">
-			{{#if phone}}
-			<div class="flex gap-1 items-center">
-				<i class="bi bi-phone-fill"></i>
-				{{phone}}
-			</div>
-			{{/if}}
-
-			{{#if birthDate}}
-				<div class="flex gap-1 items-center">
-				<i class="bi bi-calendar"></i>
-					{{birthDate}}
-				</div>
-			{{/if}}
+		{{#if phone}}
+		<div class="flex gap-1 items-center">
+			<i class="bi bi-phone-fill"></i>
+			{{phone}}
 		</div>
+		{{/if}}
+
+		{{#if birthDate}}
+			<div class="flex gap-1 items-center">
+			<i class="bi bi-calendar"></i>
+				{{birthDate}}
+			</div>
+		{{/if}}
 		{{#location}}
 			{{#if address}}
 			<div class="flex gap-1 items-center">

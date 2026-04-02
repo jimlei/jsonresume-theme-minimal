@@ -3,6 +3,11 @@
 @tailwind utilities;
 
 @media print {
+  html {
+    /* Serif stack: better for long-form print/PDF than ui-sans-serif; OS fallbacks avoid webfont deps */
+    font-family: Georgia, 'Liberation Serif', 'DejaVu Serif', 'Times New Roman', Times, serif;
+  }
+
   article {
     break-inside: avoid;
   }

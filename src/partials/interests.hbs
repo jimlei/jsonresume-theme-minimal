@@ -1,16 +1,20 @@
 {{#if resume.interests.length}}
 <section id="interests">
 	{{>components/header level=2 title=(t 'Interests')}}
-	<div class="flex flex-col">
+	<div class="flex flex-col gap-1">
 		{{#each resume.interests}}
-		<div >
+		<article>
+		<div class="flex flex-col">
 			{{#if name}}
-				{{>components/header level=3 title=name}}
+			<span class="font-bold">{{name}}</span>
 			{{/if}}
 			{{#if keywords.length}}
-				<!--{{>components/tags tags=keywords}}-->
+				<span class="text-xs italic">
+					{{#each keywords}}{{#unless @first}}, {{/unless}}{{this}}{{/each}}
+				</span>
 			{{/if}}
 		</div>
+		</article>
 		{{/each}}
 	</div>
 </section>
