@@ -16,7 +16,7 @@ const getResume = () => {
 }
 
 const config = {
-  ...getConfig(getResume()),
+  ...getConfig(getResume),
   root: __dirname,
   build: {
     rollupOptions: {
