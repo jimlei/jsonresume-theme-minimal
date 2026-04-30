@@ -1,0 +1,72 @@
+name: Build Resume PDF
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+  release:
+    types:
+      - published
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Export English PDF
+        shell: bash
+        run: |
+          rm -f ./*.pdf
+          npm run export
+          en_pdf="$(ls -1t ./*.pdf 2>/dev/null | head -n 1)"
+          if [[ -z "${en_pdf}" ]]; then
+            echo "No English PDF file produced."
+            exit 1
+          fi
+          mv "${en_pdf}" "./resume-en.pdf"
+
+      - name: Export Norwegian PDF
+        shell: bash
+        run: |
+          rm -f ./*.pdf
+          RESUME_VARIANT=no npx resume export resume-no --format pdf --theme .
+          no_pdf="$(ls -1t ./*.pdf 2>/dev/null | head -n 1)"
+          if [[ -z "${no_pdf}" ]]; then
+            echo "No Norwegian PDF file produced."
+            exit 1
+          fi
+          mv "${no_pdf}" "./resume-no.pdf"
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdf
+          path: |
+            ./resume-en.pdf
+            ./resume-no.pdf
+          if-no-files-found: error
+
+      - name: Upload PDF to release
+        if: ${{ github.event_name == 'release' }}
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ./resume-en.pdf
+            ./resume-no.pdf

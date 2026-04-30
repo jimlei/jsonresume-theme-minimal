@@ -3,12 +3,12 @@
   "basics": {
     "name": "Jim Leirvik",
     "birthDate": "1985-03-21",
-    "label": "Utvikler",
+    "label": "Senior systemingeniør / Fullstack-utvikler",
     "image": "https://avatars.githubusercontent.com/u/4523053",
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Fullstack-utvikler med 10+ års erfaring med å bygge og videreutvikle forretningskritiske systemer i både backend og frontend. Jeg spesialiserer meg på å designe robuste tjenester, forbedre systemkvalitet gjennom testing og arkitektur, og drive initiativer fra idé til produksjon.\n\nHar ledet plattforminitiativer, forbedret testing på tvers av team, og levert interne verktøy som effektiviserer drift. Jeg fokuserer på tekniske valg som former reelle arbeidsflyter—særlig i regulerte eller komplekse domener.",
+    "summary": "Senior systemingeniør med 10+ års erfaring med å designe, bygge og videreutvikle forretningskritiske systemer på tvers av backend, frontend og plattformdomener.\n\nJeg fokuserer på systemarkitektur, driftspålitelighet og å forbedre hvordan programvare støtter reelle arbeidsflyter—særlig i komplekse, integrerte eller regulerte miljøer.\n\nGjennom karrieren har jeg konsekvent arbeidet med plattformmodernisering, arbeidsflytautomatisering, systemintegrasjon og kvalitetsforbedringer. Min styrke ligger i å forme hvordan systemer er strukturert og driftet, ikke bare levere isolerte funksjoner.\n\nPraktisk erfaring med Java, Kotlin, Python, PHP, Node.js, React, TypeScript, Angular, PostgreSQL, MySQL, Docker, Kubernetes, AWS og Azure DevOps, samt API-integrasjon, CI/CD og testautomatisering.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -32,121 +32,118 @@
     {
       "name": "Edlib AS",
       "location": "Bodø, Norge",
-      "description": "Edlib utvikler webbaserte løsninger for e-læring og digitale utdanningsplattformer, og jobber for å bli en ledende internasjonal aktør innen innovativ læringsteknologi.",
+      "description": "Edlib utvikler webbaserte løsninger for e-læring og digitale utdanningsplattformer.",
       "position": "Utvikler",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Fullstack utvikler på systemer med høy kompleksitet i regulerte domener og interne plattformer.",
+      "summary": "Fullstack-utvikler på høykompleksitetssystemer i regulerte og driftskritiske domener.",
       "highlights": [
-        "Ledet design og utrulling av en ny Django-basert plattform, og definerte arkitektur, teknologistakk og utviklingsarbeidsflyter for skalerbar funksjonsleveranse.",
-        "Utviklet og vedlikeholdt Java-backend og Angular-baserte webgrensesnitt for forretningskritiske og regulerte systemer.",
-        "Støttet ISO-relatert kvalitets- og sikkerhetsarbeid med dokumentasjon, testing og prosessforbedring, med høyere pålitelighet og revisjonsklarhet.",
-        "Designet og implementerte et internt verktøy som strømlinjeformet supportarbeidsflyter, reduserte manuelt arbeid og forbedret responstid.",
-        "Samarbeidet på tvers av roller om løsninger som treffer kritiske arbeidsflyter og daglig drift.",
-        "Brukte Azure DevOps til CI/CD, oppgaver og pipelines i helsefaglig applikasjon."
+        "Ledet design og utrulling av en Django-basert plattform, og definerte arkitektur, utviklingsstruktur og arbeidsflyter for skalerbar leveranse på tvers av team.",
+        "Bidro til modernisering av backend ved å innføre Kotlin som foretrukket språk for ny og inkrementell backendutvikling ved siden av eksisterende Java-tjenester.",
+        "Utviklet og vedlikeholdt Java-backend-tjenester og Angular-frontender for forretningskritiske og regulerte systemer, med fokus på stabilitet, vedlikeholdbarhet og driftspålitelighet.",
+        "Eide teknisk design og implementasjon av et kjernesubsystem i selskapets selvonboarding-initiativ: en skjemabygger brukt til å definere onboarding-arbeidsflyter på tvers av divisjoner.",
+        "Designet og implementerte en skjemabygger med støtte for betinget logikk (f.eks. dynamisk ressursoppretting basert på brukerinput), gjenbrukbare komponenter og deling av konfigurasjoner på tvers av divisjoner—erstatter manuelle prosesser tidligere håndtert av driftsteam.",
+        "Bidro til ISO-relatert kvalitets- og sikkerhetsarbeid gjennom dokumentasjon, testpraksis og systemforbedringer som støtter revisjonsklarhet og pålitelighet.",
+        "Bygde interne verktøy som reduserte manuelt arbeid og forbedret driftsstøttearbeidsflyter.",
+        "Samarbeidet på tvers av fagdisipliner for å tilpasse tekniske løsninger til reelle driftskrav i et helserelatert miljø.",
+        "Støttet CI/CD og release-pipelines med Azure DevOps, inkludert byggautomatisering og utrullingsarbeidsflyter."
       ]
     },
     {
       "name": "Bilberry Technologies",
       "location": "Bodø, Norge",
-      "description": "Bilberry har designet en kraftig, fleksibel og fokusert plattform som tar hverdagen til aktivitetsleverandører til neste nivå.",
+      "description": "Plattform for aktivitetsleverandører og operative forretningsarbeidsflyter.",
       "position": "Utvikler",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Frontend- og testfokusert utvikler på legacy og ny plattform, med tydelig eierskap til kvalitet.",
+      "summary": "Frontend- og kvalitetsfokusert utvikler på legacy og moderne systemer.",
       "highlights": [
-        "Eide OKR-drevet kvalitetsarbeid med mål om betydelig færre gjentakende feil.",
-        "Forbedret teststrategi på tvers av team ved å innføre ende-til-ende- og akseptansetesting, med færre produksjonsfeil og mer pålitelig utrulling.",
-        "Koblet produkt og utvikling for tryggere og mer effektive leveranser."
+        "Eide OKR-drevne initiativer for å forbedre systemkvalitet og redusere gjentakende produksjonsfeil.",
+        "Forbedret teststrategi på tvers av team ved å innføre ende-til-ende- og akseptansetesting, som økte utrullingssikkerheten.",
+        "Fungerte som bro mellom produkt og utvikling for å forbedre leveringssikkerhet og arbeidsflytjustering."
       ]
     },
     {
       "name": "Cerpus AS",
       "location": "Bodø, Norge",
-      "description": "Cerpus utvikler nettbaserte løsninger for e-læring og jobber mot å bli en internasjonal leder innen innovative utdanningsløsninger.",
+      "description": "Nettbasert e-læring og pedagogisk teknologiplattform.",
       "position": "Utvikler",
       "url": "https://gamilab.com",
       "startDate": "2022-03-01",
       "endDate": "2023-04-30",
-      "summary": "Fullstack utvikler på internasjonal læringsplattform, med ansvar i både produktforbedring og leveranse.",
+      "summary": "Fullstack-utvikler på internasjonal læringsplattform med ansvar for produkt og leveranse.",
       "highlights": [
-        "Ledet implementering av nytt designsystem på tvers av plattform og komponenter, med bedre konsistens, vedlikeholdbarhet og utviklingstempo.",
-        "Bidro til utvikling og lansering av nettleserbaserte pedagogiske spill brukt i skoler internasjonalt."
+        "Ledet implementering av et designsystem på tvers av plattform og komponenter, med bedre konsistens og vedlikeholdbarhet.",
+        "Bidro til utvikling og lansering av nettleserbaserte pedagogiske applikasjoner brukt internasjonalt i skoler."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norge",
-      "description": "Ahlsell er en grossist for profesjonelle brukere med et omfattende sortiment og tilhørende tjenester. Med en årlig omsetning på ca. 50 milliarder SEK, 7500 ansatte og over 300 butikker.",
+      "description": "Stor grossist for profesjonelle markeder og kommunale entreprenører.",
       "position": "Tilbudsansvarlig VA, Region Nord",
       "url": "https://www.ahlsell.no/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Ledende rolle i anbudsberegning og helhetlige anbudsprosesser i Nord-Norge, med leverandør- og kundekontakt for større entreprenører og kommuner.",
+      "summary": "Ledende rolle i anbudsprosesser og tverrorganisatorisk koordinering i regionale operasjoner.",
       "highlights": [
-        "Ledet helhetlige anbudsprosesser for større regionale kontrakter, med koordinering av leverandører, kunder og interne team.",
-        "Deltok i prosjektgruppe som utviklet og implementerte nye rutiner for oppfølging og sporing av tilbud, samt integrasjoner med CRM-systemet."
+        "Ledet helhetlige anbudsprosesser for større regionale kontrakter med leverandører, kunder og interne team.",
+        "Deltok i initiativer for å forbedre arbeidsflyter for anbudshåndtering, inkludert CRM- og sporingsprosesser, med operasjonell innsikt fra praktisk anbudsgjennomføring."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norge",
-      "description": "",
+      "description": "Salg og systemarbeid i VA-sektoren (vann og avløp).",
       "position": "Selger VA",
       "url": "https://www.ahlsell.no/",
       "startDate": "2016-01-01",
       "endDate": "2021-01-01",
-      "summary": "Ansvarlig for salg og kundekontakt med 50 kunder i VA-sektoren, inkludert små og store entreprenører og kommuner.",
+      "summary": "Ansvarlig for kunderelasjoner og utvikling av systemer for anbud, salg og arbeidsflytautomatisering.",
       "highlights": [
-        "Økte salget og utvidet kundebasen for avdelingen.",
         "Hovedansvar for innkjøpsavtale med 13 kommuner i Salten.",
-        "Utviklet integrasjon mellom vårt kalkyleprogram og ISY Linker som muliggjorde digitale tilbud.",
-        "Designet og implementerte digitale systemer for anbudssporing og prosjektstyring som automatiserte arbeidsflyter, integrerte interne og eksterne datakilder, og ble tatt i bruk i hele regionen.",
-        "Bidro til salg, prosjektkalkulasjon og -oppfølging i hele regionen.",
-        "Deltok i prosjektgruppe som utviklet nye retningslinjer for anbudshåndtering.",
-        "Bidro til innføring av nye nasjonale rammeavtaler for VA-sektoren, til nytte for 200 kunder og forenkling av de ansattes arbeid."
+        "Utviklet integrasjoner mellom kalkyleprogram og ISY Linker som muliggjorde strukturerte digitale tilbudsarbeidsflyter og reduserte manuell behandling.",
+        "Designet og implementerte digitale systemer for anbudssporing og arbeidsflytautomatisering som ble tatt i bruk i hele regionen, med bedre konsistens og redusert manuell koordinering.",
+        "Håndterte innkjøpsavtaler og kunderelasjoner med kommunale og entreprenørkunder, inkludert rundt 50 aktive kontoer.",
+        "Støttet innføring av nasjonale rammeavtaler som forbedret arbeidsflyteffektivitet for 200+ kunder."
       ]
     },
     {
       "name": "Braathe Gruppen",
       "location": "Bodø, Norge",
-      "description": "Braathe Gruppen er en fremtidsrettet teknologileverandør med visjon om å tilby en bekymringsfri IT-opplevelse.",
       "position": "Utvikler",
       "startDate": "2015-01-01",
       "endDate": "2015-12-01",
-      "summary": "Utvikler på stor norsk auksjonsplattform; leverte funksjoner med Symfony og JavaScript.",
+      "summary": "Utvikler på en Symfony-basert auksjonsplattform med fokus på leveranse og forbedring av arbeidsflyter.",
       "highlights": [
-        "Leverte funksjoner og forbedringer ut fra kundebehov med Symfony og JavaScript.",
-        "Organiserte et prosjektteam på tre utviklere og ledelse.",
-        "Forbedret arbeidsflyt gjennom optimalisering av sakshåndtering, versjonskontroll og CI/CD.",
+        "Leverte funksjoner og forbedringer basert på kundebehov.",
+        "Forbedret utviklingsarbeidsflyter inkludert CI/CD, oppgavehåndtering og versjonskontrollpraksis.",
         "Introduserte virtualiserte utviklingsmiljøer for konsistens og raskere onboarding."
       ]
     },
     {
       "name": "International Software Technology AS",
       "location": "Bodø, Norge",
-      "description": "Nordisk selskap som leverer administrative og pedagogiske IT-løsninger.",
       "position": "Utvikler",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Del av internasjonalt team som leverte skoleadministrasjonsløsning.",
+      "summary": "Del av internasjonalt team som bygde og moderniserte skoleadministrasjonssystemer.",
       "highlights": [
-        "Drev frem modernisering: stackoppgraderinger, byggverktøy og utviklingsmiljø.",
-        "Leverte funksjoner, feilretting og interne og eksterne API-integrasjoner."
+        "Bidro til modernisering av legacy-systemer gjennom stackoppgraderinger og forbedringer av byggverktøy.",
+        "Leverte backend-funksjoner og API-integrasjoner i et distribuert ingeniørteam."
       ]
     },
     {
       "name": "Leirvik Nett",
       "location": "Bodø, Norge",
-      "description": "",
       "position": "Konsulent",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "summary": "Håndterte anbudsberegninger, kunde- og prosjektanskaffelser nasjonalt og internasjonalt, samt oppfølging av tilbud. Analyserte kundebehov og implementerte løsninger.",
+      "summary": "Arbeidet med kundeanalyse, anbudsprosesser og løsningsdesign i nasjonale og internasjonale prosjekter.",
       "highlights": [
-        "Analyserte kundebehov og bidro til løsningsdesign og leveranse i nasjonale og internasjonale prosjekter.",
-        "Håndterte anbudsprosesser og oppfølging med samsvar mellom kundekrav og levert løsning."
+        "Analyserte kundebehov og bidro til løsningsdesign og leveranse.",
+        "Håndterte anbudsprosesser og oppfølging på tvers av flere kundeengasjementer."
       ]
     },
     {
@@ -256,17 +253,18 @@
   "skills": [
     {
       "name": "Backend-utvikling",
-      "level": "",
-      "summary": "Bygger og vedlikeholder backend-tjenester og API-er i blant annet Go, PHP, Node.js og Python. God erfaring med relasjonsdatabaser, datamodellering og integrasjoner mellom interne og eksterne systemer.",
+      "summary": "Designer og vedlikeholder backend-tjenester og API-er med sterk erfaring innen systemintegrasjon, datamodellering og distribuerte systemer.",
       "keywords": [
         "Go",
+        "Java",
+        "Kotlin",
         "Laravel",
         "MongoDB",
         "MySQL",
         "Node.js",
         "PHP",
-        "Python",
         "PostgreSQL",
+        "Python",
         "RabbitMQ",
         "Redis",
         "Supabase",
@@ -275,8 +273,7 @@
     },
     {
       "name": "Frontend-utvikling",
-      "level": "",
-      "summary": "Utvikler brukerflater i React/Vue med TypeScript, Tailwind og CSS. Vektlegger robuste komponenter, god brukeropplevelse og løsninger som fungerer stabilt i drift.",
+      "summary": "Bygger vedlikeholdbare frontendsystemer med fokus på brukervennlighet, stabilitet og langsiktig vedlikeholdbarhet.",
       "keywords": [
         "CSS",
         "Figma",
@@ -285,30 +282,29 @@
         "React",
         "Tailwind",
         "TypeScript",
-        "Brukeropplevelse",
         "Vue"
       ]
     },
     {
       "name": "DevOps",
-      "level": "",
-      "summary": "Erfaring med Docker og Kubernetes i daglig arbeid, samt leveranser til AWS. Jobber praktisk med driftbarhet, nettverk og automatisering.",
+      "summary": "Erfaring med containeriserte systemer, CI/CD-pipelines og operative utrullingsarbeidsflyter.",
       "keywords": [
         "AWS",
+        "Azure DevOps",
         "Docker",
         "Kubernetes"
       ]
     },
     {
       "name": "Sikkerhet",
-      "level": "",
-      "summary": "Jeg er genuint opptatt av web- og API-sikkerhet, nettverksdesign og hardening av endepunkter—i oppdrag og i egen praksis over tid. Jeg har deltatt på mange hackathons; et høydepunkt var delfinalen i Master of Cyber Security under HackCon 2021, som en av 63 av 421 deltakere.",
+      "summary": "Interesse og praktisk erfaring innen web- og API-sikkerhet, nettverkshardening og sikker systemdesign. Nådde semifinalen i Master of Cyber Security under HackCon 2021 (63 av 421 deltakere).",
       "keywords": [
-        "Web",
-        "Nettverk",
-        "Maskinvare",
-        "Sosial",
-        "Hackathons"
+        "API-sikkerhet",
+        "Hackathons",
+        "Maskinvaresikkerhet",
+        "Nettverkssikkerhet",
+        "Sosial manipulering",
+        "Websikkerhet"
       ]
     }
   ],
@@ -348,7 +344,7 @@
       ]
     },
     {
-      "name": "Bil",
+      "name": "Veteranbiler",
       "keywords": [
         "Motor og fjæring",
         "Restaurering",
@@ -366,15 +362,18 @@
   "projects": [
     {
       "name": "Bilberry",
-      "description": "",
-      "highlights": [],
+      "description": "Operativ plattform for aktivitetsleverandører, med fokus på frontendkvalitet, testautomatisering og stabile leveransearbeidsflyter.",
+      "highlights": [
+        "Jobbet på et React- og TypeScript-frontend med Tailwind, og bidro til vedlikeholdbar UI-arkitektur og kvalitetsforbedringer.",
+        "Introduserte og utvidet Playwright-basert ende-til-ende- og akseptansetesting for å redusere gjentakende produksjonsfeil og forbedre utrullingssikkerheten."
+      ],
       "keywords": [
         ".NET",
         "Figma",
         "Playwright",
         "React",
-        "TypeScript",
-        "Tailwind"
+        "Tailwind",
+        "TypeScript"
       ],
       "startDate": "2023-05-01",
       "url": "https://bilberry.no/",
@@ -384,12 +383,15 @@
     },
     {
       "name": "Gamilab",
-      "description": "Gamilab er en spillbasert læringsplattform som gir elever en ny og spennende måte å lære på.",
-      "highlights": [],
+      "description": "Spillbasert læringsplattform brukt i skoler, med fullstack-leveranse på tvers av frontendkomponenter, backend-funksjoner og utrullingsarbeidsflyter.",
+      "highlights": [
+        "Bidro til en Laravel- og JavaScript-applikasjon med Tailwind og Figma-baserte designarbeidsflyter.",
+        "Hjalp med å implementere og rulle ut et designsystem for å forbedre konsistens, vedlikeholdbarhet og leveringshastighet på tvers av komponenter."
+      ],
       "keywords": [
         "Figma",
-        "Laravel",
         "JavaScript",
+        "Laravel",
         "Tailwind"
       ],
       "startDate": "2022-03-01",
@@ -421,7 +423,7 @@
     {
       "name": "Club Honda Norway Community",
       "url": "http://www.club-honda.org",
-      "description": "Nettsted og forum bygget med Joomla CMS og vBulletin, med egendefinerte komponenter som integrerer med e-handels-partner, fraktleverandører og abonnementstjenester. Et eget vBulletin-modul ble også utviklet for å la klubbpartnere reklamere for produkter og tilbud. Klubben er nå nedlagt.",
+      "description": "Nettsted og forum bygget med Joomla CMS og vBulletin, med egendefinerte komponenter som integrerer med e-handels-partner, fraktleverandører og abonnementstjenester for nettsted- og forumtilgang. Et eget vBulletin-modul ble også utviklet for å la klubbpartnere reklamere for produkter og tjenester, med kampanjetilbud. Klubben er nå nedlagt.",
       "keywords": [
         "JavaScript",
         "PHP"
@@ -431,7 +433,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
-    "version": "v8.4.2",
-    "lastModified": "2026-03-27T17:45:48+00:00Z"
+    "version": "v8.4.3",
+    "lastModified": "2026-04-30T17:53:22+00:00Z"
   }
 }

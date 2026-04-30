@@ -3,12 +3,12 @@
   "basics": {
     "name": "Jim Leirvik",
     "birthDate": "1985-03-21",
-    "label": "Developer",
+    "label": "Senior Systems Engineer / Fullstack Developer",
     "image": "https://avatars.githubusercontent.com/u/4523053",
     "email": "jim@jimleirvik.no",
     "phone": "92 111 587",
     "url": "https://jimleirvik.no",
-    "summary": "Fullstack developer with 10+ years of experience building and evolving business-critical systems across backend and frontend. I specialize in designing robust services, improving system quality through testing and architecture, and driving initiatives from idea to production.\n\nLed platform initiatives, improved cross-team testing, and shipped internal tools that streamline operations. I focus on technical choices that shape real workflows—especially in regulated or complex domains.",
+    "summary": "Senior systems engineer with 10+ years of experience designing, building, and evolving business-critical software across backend, frontend, and platform domains.\n\nI focus on system architecture, operational reliability, and improving how software supports real-world workflows—particularly in complex, integrated, or regulated environments.\n\nAcross my career I’ve consistently worked on platform modernization, workflow automation, system integration, and quality improvements. My strength lies in shaping how systems are structured and operated, not just delivering isolated features.\n\nHands-on across Java, Kotlin, Python, PHP, Node.js, React, TypeScript, Angular, PostgreSQL, MySQL, Docker, Kubernetes, AWS, and Azure DevOps, with experience in API integration, CI/CD, and test automation.",
     "location": {
       "address": "Geitskaret 49",
       "postalCode": "8014",
@@ -32,121 +32,118 @@
     {
       "name": "Edlib AS",
       "location": "Bodø, Norway",
-      "description": "Edlib develops web-based solutions for e-learning and digital education platforms, aiming to become a leading international player in innovative learning technology.",
+      "description": "Edlib develops web-based solutions for e-learning and digital education platforms.",
       "position": "Developer",
       "url": "https://edlib.com/",
       "startDate": "2025-06-21",
-      "summary": "Fullstack developer on high-complexity systems in regulated domains and internal platforms.",
+      "summary": "Fullstack engineer working on high-complexity systems in a regulated and operationally critical domain.",
       "highlights": [
-        "Led the design and rollout of a new Django-based platform, defining architecture, tech stack, and development workflows to enable scalable feature delivery.",
-        "Developed and maintained Java backend services and Angular-based web frontends for business-critical and regulated systems.",
-        "Supported ISO quality and security work through documentation, tests, and process improvements, improving reliability and audit readiness.",
-        "Designed and implemented an internal tool that streamlined support workflows, reducing manual work and improving response time.",
-        "Collaborated across disciplines on solutions aligned with critical workflows and daily operations.",
-        "Used Azure DevOps for CI/CD, work tracking, and pipelines on a healthcare application."
+        "Led the design and rollout of a Django-based platform, defining architecture, development structure, and workflows for scalable delivery across teams.",
+        "Contributed to backend modernization efforts, introducing Kotlin as the preferred language for new and incremental backend development alongside existing Java services.",
+        "Developed and maintained Java backend services and Angular frontends for business-critical and regulated systems, focusing on stability, maintainability, and operational reliability.",
+        "Owned the technical design and implementation of a core subsystem within the company’s self-onboarding initiative: a form builder used to define onboarding workflows across divisions.",
+        "Designed and implemented a form builder supporting conditional logic (e.g. dynamic resource creation based on user input), reusable components, and cross-division sharing of configurations, replacing manual processes previously handled by operations teams.",
+        "Contributed to ISO-related quality and security processes through documentation, testing practices, and system improvements supporting audit readiness and reliability.",
+        "Built internal tooling that reduced manual workload and improved operational support workflows.",
+        "Collaborated across disciplines to align technical solutions with real operational requirements in a healthcare-related environment.",
+        "Supported CI/CD and release pipelines using Azure DevOps, including build automation and deployment workflows."
       ]
     },
     {
       "name": "Bilberry Technologies",
       "location": "Bodø, Norway",
-      "description": "Bilberry has designed a powerful, flexible, and focused platform that takes the everyday operations of activity providers to the next level.",
+      "description": "Platform for activity providers and operational business workflows.",
       "position": "Developer",
       "url": "https://bilberry.no",
       "startDate": "2023-05-01",
       "endDate": "2025-06-18",
-      "summary": "Frontend and test-focused developer across legacy and new platform, with clear ownership of quality.",
+      "summary": "Frontend and quality-focused engineer working across legacy and modern systems.",
       "highlights": [
-        "Owned OKR-driven quality initiatives targeting a significant reduction in recurring issues.",
-        "Improved cross-team test strategy by introducing end-to-end and acceptance testing, reducing production issues and increasing deployment confidence.",
-        "Bridged product and engineering for safer, smoother delivery."
+        "Owned OKR-driven initiatives to improve system quality and reduce recurring production issues.",
+        "Improved cross-team testing strategy by introducing end-to-end and acceptance testing, increasing deployment confidence.",
+        "Acted as a bridge between product and engineering to improve delivery safety and workflow alignment."
       ]
     },
     {
       "name": "Cerpus AS",
       "location": "Bodø, Norway",
-      "description": "Cerpus develops web-based e-learning solutions and is working towards becoming an international leader in innovative educational solutions.",
+      "description": "Web-based e-learning and educational technology platform.",
       "position": "Developer",
       "url": "https://gamilab.com",
       "startDate": "2022-03-01",
       "endDate": "2023-04-30",
-      "summary": "Fullstack developer on an international learning platform, with responsibility in both product improvement and delivery.",
+      "summary": "Fullstack developer on an international learning platform with responsibility for product and delivery.",
       "highlights": [
-        "Led implementation of a new design system across platform and components, improving consistency, maintainability, and developer efficiency.",
-        "Contributed to development and launch of browser-based educational games used in schools internationally."
+        "Led implementation of a design system across platform and components, improving consistency and maintainability.",
+        "Contributed to development and release of browser-based educational applications used internationally in schools."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norway",
-      "description": "Ahlsell is a wholesaler for professional users with an extensive range of products and related services. With an annual turnover of approximately 50 billion SEK, 7,500 employees, and over 300 stores.",
+      "description": "Large-scale wholesaler for professional markets and municipal contractors.",
       "position": "Tender Manager VA, Northern Region",
       "url": "https://www.ahlsell.no/",
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
-      "summary": "Lead role in tender calculations and end-to-end tender processes across Northern Norway, with supplier and customer contact for major contractors and municipalities.",
+      "summary": "Lead role in tender processes and cross-organizational coordination across regional operations.",
       "highlights": [
-        "Led end-to-end tender processes for major regional contracts, coordinating suppliers, customers, and internal teams.",
-        "Participated in a project group developing and implementing new routines for offer follow-up and tracking, including CRM integrations."
+        "Led end-to-end tender processes for major regional contracts involving suppliers, customers, and internal teams.",
+        "Participated in initiatives to improve tender management workflows, including CRM and tracking processes, contributing operational insight from hands-on tender execution."
       ]
     },
     {
       "name": "Ahlsell AS",
       "location": "Bodø, Norway",
-      "description": "",
+      "description": "Water and wastewater (VA) sector sales and systems work.",
       "position": "Salesperson VA",
       "url": "https://www.ahlsell.no/",
       "startDate": "2016-01-01",
       "endDate": "2021-01-01",
-      "summary": "Managed sales and customer relations for 50 clients in the water and wastewater (VA) sector, including small and large contractors and municipalities.",
+      "summary": "Managed client relationships and developed systems supporting tender, sales, and workflow automation.",
       "highlights": [
-        "Increased sales and expanded the department's customer base.",
-        "Primary responsibility for procurement agreement with 13 municipalities in Salten.",
-        "Developed integration between tender calculation software and ISY Linker enabling digital offers.",
-        "Designed and implemented digital tender tracking and project systems that automated workflows, integrated internal and external data sources, and were adopted region-wide.",
-        "Contributed to sales, project calculations, and tracking across the region.",
-        "Participated in a project group developing new guidelines for tender management.",
-        "Supported implementation of new national framework agreements for the VA sector, benefiting 200 customers and simplifying staff workflows."
+        "Primary responsibility for a procurement agreement covering 13 municipalities in Salten.",
+        "Developed integrations between tender calculation systems and ISY Linker, enabling structured digital offer workflows and reducing manual processing overhead.",
+        "Designed and implemented digital tender tracking systems and workflow automation adopted region-wide, improving consistency and reducing manual coordination effort.",
+        "Managed procurement agreements and customer relationships across municipal and contractor clients, including around 50 active accounts.",
+        "Supported implementation of national framework agreements improving workflow efficiency for 200+ customers."
       ]
     },
     {
       "name": "Braathe Gruppen",
       "location": "Bodø, Norway",
-      "description": "Braathe Gruppen is a forward-thinking technology provider with a vision to deliver a worry-free IT experience.",
       "position": "Developer",
       "startDate": "2015-01-01",
       "endDate": "2015-12-01",
-      "summary": "Developer on a large Norwegian auction platform; delivered features using Symfony and JavaScript.",
+      "summary": "Developer on a Symfony-based auction platform with focus on delivery and workflow improvements.",
       "highlights": [
-        "Delivered features and improvements from customer needs using Symfony and JavaScript.",
-        "Organized a project team of three developers and leadership.",
-        "Improved workflows by optimizing issue tracking, version control, and CI/CD.",
-        "Introduced virtualized development environments for consistency and faster onboarding."
+        "Delivered features and improvements based on customer requirements.",
+        "Improved development workflows including CI/CD, issue tracking, and version control practices.",
+        "Introduced virtualized development environments for consistency and onboarding speed."
       ]
     },
     {
       "name": "International Software Technology AS",
       "location": "Bodø, Norway",
-      "description": "Nordic company providing administrative and educational IT solutions.",
       "position": "Developer",
       "startDate": "2013-01-01",
       "endDate": "2015-01-01",
-      "summary": "Part of an international team delivering school administration software.",
+      "summary": "Part of an international team building and modernizing school administration systems.",
       "highlights": [
-        "Spearheaded modernization: stack upgrades, build tooling, and dev environments.",
-        "Delivered features, fixes, and internal and external API integrations."
+        "Contributed to modernization of legacy systems through stack upgrades and build tooling improvements.",
+        "Delivered backend features and API integrations in a distributed engineering team."
       ]
     },
     {
       "name": "Leirvik Nett",
       "location": "Bodø, Norway",
-      "description": "",
       "position": "Consultant",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "summary": "Handled tender calculations, customer and project sourcing domestically and internationally, and followed up on offers. Analyzed customer needs and implemented solutions.",
+      "summary": "Worked across customer analysis, tender processes, and solution design in domestic and international projects.",
       "highlights": [
-        "Analyzed customer needs and contributed to solution design and delivery on domestic and international projects.",
-        "Handled tender processes and follow-up, aligning customer requirements with delivered solutions."
+        "Analyzed customer requirements and contributed to solution design and delivery.",
+        "Managed tender processes and follow-up across multiple client engagements."
       ]
     },
     {
@@ -255,18 +252,19 @@
   "publications": [],
   "skills": [
     {
-      "name": "Back End Development",
-      "level": "",
-      "summary": "Build and maintain backend services and APIs in technologies including Go, PHP, Node.js, and Python. Strong experience with relational databases, data modeling, and integrations across internal and external systems.",
+      "name": "Backend Systems",
+      "summary": "Design and maintain backend services and APIs with strong experience in system integration, data modeling, and distributed systems.",
       "keywords": [
         "Go",
+        "Java",
+        "Kotlin",
         "Laravel",
         "MongoDB",
         "MySQL",
         "Node.js",
         "PHP",
-        "Python",
         "PostgreSQL",
+        "Python",
         "RabbitMQ",
         "Redis",
         "Supabase",
@@ -274,9 +272,8 @@
       ]
     },
     {
-      "name": "Front End Development",
-      "level": "",
-      "summary": "Develop user interfaces in React/Vue with TypeScript, Tailwind, and CSS. Focus on robust components, good user experience, and solutions that remain stable in production.",
+      "name": "Frontend Development",
+      "summary": "Build maintainable frontend systems focused on usability, stability, and long-term maintainability.",
       "keywords": [
         "CSS",
         "Figma",
@@ -285,30 +282,29 @@
         "React",
         "Tailwind",
         "TypeScript",
-        "User Experience",
         "Vue"
       ]
     },
     {
       "name": "DevOps",
-      "level": "",
-      "summary": "Experience with Docker and Kubernetes in day-to-day work, as well as deliveries to AWS. Hands-on with operability, networking, and automation.",
+      "summary": "Experience with containerized systems, CI/CD pipelines, and operational deployment workflows.",
       "keywords": [
         "AWS",
+        "Azure DevOps",
         "Docker",
         "Kubernetes"
       ]
     },
     {
       "name": "Security",
-      "level": "",
-      "summary": "I'm genuinely interested in web and API security, network design, and hardening endpoints—in client work and in long-running personal practice. I've taken part in many hackathons; a highlight was reaching the semi-final as one of 63 contestants out of 421 in Master of Cyber Security at HackCon 2021.",
+      "summary": "Interest and practical experience in web and API security, network hardening, and secure system design. Reached the semi-final in Master of Cyber Security at HackCon 2021 (63 of 421 contestants).",
       "keywords": [
-        "Web",
-        "Network",
-        "Hardware",
-        "Social",
-        "Hackathons"
+        "API Security",
+        "Hackathons",
+        "Hardware Security",
+        "Network Security",
+        "Social Engineering",
+        "Web Security"
       ]
     }
   ],
@@ -334,17 +330,17 @@
     {
       "name": "Nature",
       "keywords": [
-        "Hiking",
         "Camping",
+        "Hiking",
         "Photography"
       ]
     },
     {
       "name": "Technology",
       "keywords": [
-        "Web development",
+        "DevOps",
         "Homelab",
-        "DevOps"
+        "Web development"
       ]
     },
     {
@@ -366,15 +362,18 @@
   "projects": [
     {
       "name": "Bilberry",
-      "description": "",
-      "highlights": [],
+      "description": "Operational platform for activity providers, with focus on frontend quality, test automation, and stable delivery workflows.",
+      "highlights": [
+        "Worked on a React and TypeScript frontend with Tailwind, contributing to maintainable UI architecture and quality improvements.",
+        "Introduced and expanded Playwright-based end-to-end and acceptance testing to reduce recurring production issues and improve release confidence."
+      ],
       "keywords": [
         ".NET",
         "Figma",
         "Playwright",
         "React",
-        "TypeScript",
-        "Tailwind"
+        "Tailwind",
+        "TypeScript"
       ],
       "startDate": "2023-05-01",
       "url": "https://bilberry.no/",
@@ -384,12 +383,15 @@
     },
     {
       "name": "Gamilab",
-      "description": "Gamilab is a game based learning platform offering students a new and exciting way to learn.",
-      "highlights": [],
+      "description": "Game-based learning platform used in schools, with fullstack delivery across frontend components, backend features, and release workflows.",
+      "highlights": [
+        "Contributed to a Laravel and JavaScript application using Tailwind and Figma-based design workflows.",
+        "Helped implement and roll out a design system to improve consistency, maintainability, and delivery speed across components."
+      ],
       "keywords": [
         "Figma",
-        "Laravel",
         "JavaScript",
+        "Laravel",
         "Tailwind"
       ],
       "startDate": "2022-03-01",
@@ -431,7 +433,7 @@
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/reorx/jsoncv/master/schema/jsoncv.schema.json",
-    "version": "v8.4.2",
-    "lastModified": "2026-03-27T17:45:48+00:00Z"
+    "version": "v8.4.3",
+    "lastModified": "2026-04-30T17:53:22+00:00Z"
   }
 }

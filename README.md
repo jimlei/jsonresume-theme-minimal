@@ -33,3 +33,11 @@ npm run preview
 # Export resume to a pdf
 npm run export
 ```
+
+## GitHub Actions PDF build
+
+This repository includes a workflow at `.github/workflows/build-pdf.yml` that:
+
+- builds both English (`resume-en.pdf`) and Norwegian (`resume-no.pdf`) PDFs on pushes to `main`, pull requests, and manual runs
+- uploads both files as an artifact named `resume-pdf`
+- attaches both PDFs to a GitHub release when a release is published
